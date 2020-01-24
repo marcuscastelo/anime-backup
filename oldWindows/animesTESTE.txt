@@ -6295,7 +6295,7 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.:
 05:00 - 05:23 02
 
 Murenase! Seton Gakuen:
-//Correção
+
 05:54 - 06:17 03
 
 5-toubun no Hanayome:
@@ -6314,6 +6314,3 @@ Murenase! Seton Gakuen:
 14:35 - 14:54 12
 
 //Isto é um teste
-//Outro teste louco
-
-//Muila
