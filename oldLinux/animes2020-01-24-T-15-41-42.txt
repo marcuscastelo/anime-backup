@@ -6313,6 +6313,7 @@ Murenase! Seton Gakuen:
 14:12 - 14:35 11
 14:35 - 14:54 12
 
+//Isto é um teste
 //Outro teste louco
 
 //Muila
