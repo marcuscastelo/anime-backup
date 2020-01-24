@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "$(uname -a) -> $(time)" >> backups.log
+echo "$(uname -a)  $(date)" >> backups.log
 git pull
 python backup.py
 git add .
