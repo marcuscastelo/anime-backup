@@ -7,8 +7,5 @@ SO=$(cat settings.cfg | grep OLD | awk -F= '{print $2}' | cut -c4-100)
 git commit -m "$SO update"
 git push &> lastpush.log
 cat lastpush.log | grep -v 'rejected'
-<<<<<<< HEAD
 
-#deded
-=======
->>>>>>> 82e0508fd0704790d1fda3e546e420547d44020b
+#dedede
