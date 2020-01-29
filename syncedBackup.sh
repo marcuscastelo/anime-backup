@@ -6,3 +6,5 @@ git add .
 SO=$(cat settings.cfg | grep OLD | awk -F= '{print $2}' | cut -c4-100)
 git commit -m "$SO update"
 git push &> lastpush.log
+
+#test
