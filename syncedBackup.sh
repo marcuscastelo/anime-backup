@@ -18,6 +18,10 @@ SO=$(cat settings.cfg | grep OLD | awk -F= '{print $2}' | cut -c4-100)
 #Commit the staged changes
 git commit -m "$SO update"
 
+if [ $(ls "old$SO" | wc -l) -gt 30 ]; then 
+	echo "WARNING: THERE IS MORE THAN 30 FILES IN old$SO"; 
+fi
+
 #Saves the push success or failure messages to a log file, cat it and then make an error code if necessary
 git push &> lastpush.log
 cat lastpush.log
