@@ -6056,7 +6056,7 @@ Sword Art Online: Alicization - War of Underworld:
 
 22:37 - 22:59 10
 
-Boku no Hero 4:
+Boku no Hero Academia 4:
 
 23:00 - 23:22 08
 23:23 - 23:45 09
@@ -6096,7 +6096,7 @@ Enen no Shouboutai:
 
 19:56 - 18:20 22
 
-Boku no Hero Academia:
+Boku no Hero Academia 4:
 
 20:51 - 21:14 10
 
@@ -6368,4 +6368,9 @@ Murenase! Seton Gakuen:
 Kyokou Suiri:
 
 21:24 - 21:49 04
-21:49
+21:49 - 22:12 05
+
+Boku no Hero Academia 4:
+
+22:26 - 22:49 15
+22:49 - 
