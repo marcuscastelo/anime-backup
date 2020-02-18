@@ -469,14 +469,14 @@ Dakara Boku Wa, H Ga Dekinai:
 09/04/2017 14:11 - 09/04/2017 14:36 ☺ Kono Subarashii Sekai Ni Shukufuku Wo! 2 ☺ Ep09
 09/04/2017 14:36 - 09/04/2017 14:59 ☺ Kono Subarashii Sekai Ni Shukufuku Wo! 2 ☺ Ep10
 
-Psycho Pass
+Psycho Pass:
 
 10/04/2017
 
 23:09 - 23:32 1
 23:32 - 23:54 2
 
-Psycho Pass
+Psycho Pass:
 
 29/04/2017
 
@@ -490,7 +490,7 @@ Psycho Pass
 
 Kiseijuu: Sei no Kakuritsu: //(Parasite)
 
-04/05
+04/05/2017
 
 18:58 - 19:20 1
 19:20 - 19:43 2
@@ -512,7 +512,7 @@ Kiseijuu: Sei no Kakuritsu: //(Parasite)
 01:34 - 01:56 18
 01:56 - 02:18 19
 
-08/05:
+08/05/2017
 
 00:48 - 01:11 20
 01:11 - 01:34 21
@@ -522,7 +522,7 @@ Kiseijuu: Sei no Kakuritsu: //(Parasite)
 
 Psycho Pass:
 
-12/05:
+12/05/2017
 
 20:44 - 21:07 07
 21:10 - 21:34 08
@@ -531,7 +531,7 @@ Psycho Pass:
 22:25 - 22:47 11
 22:48 - 23:11 12
 
-14/05/2017:
+14/05/2017
 
 11:40 - 12:04 13
 12:05 - 12:28 14
@@ -550,7 +550,7 @@ Kobayashi san Chi no Maid-Dragon:
 19:00 - 19:27 02
 19:28 - 19:54 03
 
-Bakemonogatari (Caio?)
+Bakemonogatari: //(Caio?)
 
 22/05/2017
 
@@ -558,7 +558,7 @@ Bakemonogatari (Caio?)
 23:39 - 23:53 02
 00:03 - 00:27 03
 
-Eromanga-sensei
+Eromanga-sensei:
 
 25/05/2017
 
@@ -579,20 +579,20 @@ Kobayashi san Chi no Maid-Dragon:
 
 17:28 - 17:57 04
 
-Bakemonogatari
+Bakemonogatari:
 
 05/06/2017
 
-23:22 - 23:46 4
-23:47 - 00:12 5
+23:22 - 23:46 04
+23:47 - 00:12 05
 
 06/06/2017
 
-13:41 - 14:07 6
-14:08 - 14:32 7
-14:32 - 14:55 8
+13:41 - 14:07 06
+14:08 - 14:32 07
+14:32 - 14:55 08
 
-18:59 - 19:25 9
+18:59 - 19:25 09
 19:25 - 19:47 10
 19:48 - 20:13 11
 20:13 - 20:37 12
@@ -606,7 +606,7 @@ Bakemonogatari
 
 00:03 - 00:30 15
 
-Nisemonogatari
+Nisemonogatari:
 
 00:32 - 00:59 01
 23:46 - 00:12 02
@@ -618,19 +618,19 @@ Nisemonogatari
 01:03 - 01:28 05
 01:29 - 01:57 06
 02:31 - 02:58 07
-02:58 - 03:23 08 (Escova de dentes)
+02:58 - 03:23 08 //(Escova de dentes)
 03:30 - 03:56 09
 03:56 - 04:20 10
 04:20 - 04:44 11
 
-Nekomonogatari: Kuro Watch 
+Nekomonogatari: Kuro:
 
 04:46 - 05:13 01
 05:17 - 05:40 02
 05:41 - 06:07 03
 06:08 - 06:38 04
 
-Monogatari Series: Second Season
+Monogatari Series: Second Season:
 
 16:59 - 17:28 01
 17:28 - 17:55 02
@@ -660,7 +660,7 @@ Monogatari Series: Second Season
 15:54 - 16:21 23
 16:21 - 16:51 24
 
-Hanamonogatari
+Hanamonogatari:
 
 18:13 - 18:42 01
 18:42 - 19:04 02
@@ -668,15 +668,15 @@ Hanamonogatari
 19:40 - 20:03 04
 20:03 - 20:27 05
 
-Tsukimonogatari
 12/06/2017
+Tsukimonogatari:
 
 00:19 - 00:48 01
 00:48 - 01:11 02
 01:11 - 01:36 03
 18:37 - 19:15 04
 
-Owarimonogatari
+Owarimonogatari:
 
 19:36 - 20:34 01
 20:34 - 21:00 02 
@@ -694,7 +694,7 @@ Owarimonogatari
 00:35 - 01:01 11
 01:01 - 01:25 12
 
-Koyomimonogatari
+Koyomimonogatari:
 
 14:18 - 14:33 01
 14:56 - 15:10 02
@@ -709,13 +709,13 @@ Koyomimonogatari
 17:37 - 17:49 11
 17:50 - 18:04 12
 
-Kizumonogatari
+Kizumonogatari:
 
 18:25 - 19:26 01
 19:32 - 20:38 02
 
 03/07/2017
-One Punch Man
+One Punch Man:
 
 19:48 - 20:12 01
 20:12 - 20:35 02
@@ -731,7 +731,7 @@ One Punch Man
 00:05 - 00:28 12
 00:28 - 00:52 OVA
 
-Kobayashi-san-Chi-no-Maid-Dragon
+Kobayashi-san-Chi-no-Maid-Dragon:
 
 04/07/2017
 
@@ -745,7 +745,7 @@ Kobayashi-san-Chi-no-Maid-Dragon
 18:20 - 18:44 12
 18:44 - 19:08 13
 
-Shokugeki no Souma
+Shokugeki no Souma:
 
 21:44 - 22:08 01
 
@@ -877,7 +877,7 @@ Boku no Hero Academia:
 03:38 - 04:01 12
 04:02 - 04:25 13 
 
-Shokugeki no Souma: Ni no Sara
+Shokugeki no Souma: Ni no Sara:
 
 25/07/2017
 
@@ -1009,7 +1009,7 @@ Oregairu Zoku:
 13:55 - 14:20 11
 14:25 - 14:54 12
 
-Death Note (YT):
+Death Note: //(YT)
 
 02/09/2017
 
@@ -1060,7 +1060,7 @@ Death Note (YT):
 20:27 - 20:49 36
 20:50 - 21:11 37
 
-Code Gueass: Hangyaku no Lelouch
+Code Gueass: Hangyaku no Lelouch:
 
 09/09/2017
 
@@ -1075,7 +1075,7 @@ Code Gueass: Hangyaku no Lelouch
 21:48 - 22:11 09
 22:15 - 22:39 10
 
-Hajimete no Gal
+Hajimete no Gal:
 
 23:30 - 23:53 01
 23:53 - 00:15 02
@@ -1101,13 +1101,13 @@ Code Geass: Hangyaku no Lelouch:
 21:07 - 21:31 21
 21:32 - 21:57 22
 21:59 - 22:21 23
-22:24 - 22:37 (Pausa pizza festa aleatoria)
+22:24 - 22:37 -- // (Pausa pizza festa aleatoria)
 22:49 - 23:00 24
 23:02 - 23:27 25
 
-Code Geass: Hangyaku no Lelouch R2
-
 17/09/2017
+
+Code Geass: Hangyaku no Lelouch R2:
 
 00:49 - 01:13 01
 01:14 - 01:40 02
@@ -1138,19 +1138,19 @@ Code Geass: Hangyaku no Lelouch R2
 
 18/09/2017
 
-Hajimete no Gal
+Hajimete no Gal:
 
 19:45 - 20:08 04
 
 20/09/2017
 
-Sword Art Online: Ordinal Scale
+Sword Art Online: Ordinal Scale:
 
 13:26 - 13:53 23 min (TA MUITO RUIM A LEGENDA MANO)
 
-Tsurezure Children
-
 23/09/2017
+
+Tsurezure Children:
 
 13:57 - 14:10 01
 14:11 - 14:24 02
@@ -1165,40 +1165,39 @@ Tsurezure Children
 16:10 - 16:23 11
 16:23 - 16:36 12
 
-24/09/2017 (Marciel Chora)
+24/09/2017 //(Marciel Chora)
 
-To Aru Majutsu no Index
+To Aru Majutsu no Index:
 
 23:26 - 23:48 08
 23:51 - 00:24 09
 00:26 - 00:48 10
 00:49 - 01:12 11
 
-
 25/09/2017
 
-Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
+Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!:
 
-17:33 - 17:55 1 (Ova 1)
+17:33 - 17:55 1 //(Ova 1)
 
-Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage (Specials)
+Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage (Specials):
 
-18:13 - 18:17 1 (Ova 2)
-18:19 - 18:23 2 (Ova 3)
-18:24 - 18:26 3 (Ova 4)
-18:29 - 18:34 4 (Ova 5)
-18:39 - 18:43 5 (Ova 6)
-18:47 - 18:52 6 (Ova 7)
-18:53 - 18:58 7 (Ova 8)
+18:13 - 18:17 1 //(Ova 2)
+18:19 - 18:23 2 //(Ova 3)
+18:24 - 18:26 3 //(Ova 4)
+18:29 - 18:34 4 //(Ova 5)
+18:39 - 18:43 5 //(Ova 6)
+18:47 - 18:52 6 //(Ova 7)
+18:53 - 18:58 7 //(Ova 8)
 
 Angel Beats! Specials:
 
-19:01 - 19:25 01 (Rewatch? não sei se ja tinha assistido antes)
-19:31 - 20:02 02 (Rewatch)
+19:01 - 19:25 01 [Rewatch?] //não sei se ja tinha assistido
+19:31 - 20:02 02 [Rewatch]
 
 Angel Beats!: Another Epilogue:
 
-20:05 - 20:07 01 (Rewatch)
+20:05 - 20:07 01 [Rewatch]
 
 To Aru Majutsu no Index:
 
@@ -1221,29 +1220,33 @@ To Aru Majutsu no Index:
 
 30/09/2017
 
-Madoka Magica Filmes
+Madoka Magica Filmes:
 
 17:24 - 19:22 03
 
-Sao Rewatch (Gary e Vitinho)
+Sword Art Online: [Rewatch]
 
-00:23 - 00:46 03
-00:47 - 01:12 04
-01:19 - 01:41 05
-01:43 - 02:05 06
-02:07 - 02:29 07
-02:30 - 02:52 08
-02:52 - 03:13 09
-03:15 - 03:34 10
+00:23 - 00:46 03 {Gary, Vitinho} 
+00:47 - 01:12 04 {Gary, Vitinho}
+01:19 - 01:41 05 {Gary, Vitinho}
+01:43 - 02:05 06 {Gary, Vitinho}
+02:07 - 02:29 07 {Gary, Vitinho}
+02:30 - 02:52 08 {Gary, Vitinho}
+02:52 - 03:13 09 {Gary, Vitinho}
+03:15 - 03:34 10 {Gary, Vitinho}
 
-04/10/17 (Casa do Caio)
+04/10/2017 
 
-To Aru Majutsu no Index-tan
+To Aru Majutsu no Index-tan:
+
+//(Casa do Caio)
 
 16:30 - 16:39 01
 16:57 - 17:03 02
 
-To Aru Majutsu no Index II
+To Aru Majutsu no Index II:
+
+//(Casa do Caio)
 
 17:04 - 17:29 01
 17:30 - 17:54 02
@@ -1255,37 +1258,45 @@ To Aru Majutsu no Index II
 
 05/10/2017
 
-Gamers!
+Gamers!:
 
 21:23 - 21:50 01
 
-To Aru Majutsu no Index II
+To Aru Majutsu no Index II:
 
 22:11 - 22:30 08
 22:32 - 22:54 09
 23:00 - 23:23 10
 
-06/10/2017 (Casa Caio)
+06/10/2017 
 
-Absolute Duo
+Absolute Duo:
+
+//(Casa Caio)
 
 21:14 - 21:36 01
 21:36 - 21:57 02
 
-07/10/2017 (Casa Caio)
+07/10/2017 
 
-Toaru Majutsu no Index II
+Toaru Majutsu no Index II:
+
+//(Casa Caio)
 
 02:01 - 02:24 11
 02:25 - 02:48 12
 
-Absolute Duo
+Absolute Duo:
+
+//(Casa Caio)
 
 12:15 - 12:38 03
 12:38 - 13:01 04
-13:01 - 13:10 05 (09:53 - Café da manhã Caio)
+13:01 - 13:10 -- //(ep time: 09:53 - Café da manhã Caio)
 
-Toaru Majutsu no Index II
+Toaru Majutsu no Index II:
+
+//(Casa Caio)
 
 14:08 - 14:32 13
 14:33 - 14:56 14
@@ -1300,12 +1311,16 @@ Toaru Majutsu no Index II
 18:40 - 19:06 23
 19:06 - 19:32 24
 
-Toaru Majutsu no Index II Especial
+Toaru Majutsu no Index II Especial:
+
+//(Casa Caio)
 
 22:32 - 22:47 01
 22:48 - 23:00 02
 
-Toaru Kagaku no Railgun
+Toaru Kagaku no Railgun:
+
+//(Casa Caio)
 
 23:14 - 23:38 01
 23:38 - 00:01 02
@@ -1316,9 +1331,9 @@ Toaru Kagaku no Railgun
 
 09/10/2017
 
-Absolute Duo
+Absolute Duo:
 
-00:25 - 00:38 05 (resto)
+00:25 - 00:38 05 //(Interrompido previamente)
 00:39 - 01:03 06
 
 11/10/2017
@@ -1335,7 +1350,7 @@ Absolute Duo
 
 13/10/2017
 
-Saijaku Muhai no Bahamut (Re-assistido)
+Saijaku Muhai no Bahamut: [Rewatch]
 
 00:13 - 00:37 01
 00:40 - 01:03 02
@@ -1356,7 +1371,7 @@ Saijaku Muhai no Bahamut (Re-assistido)
 15:57 - 16:19 11
 16:20 - 16:44 12
 
-Gakusen Toshi Asterisk (Re-Assistido)
+Gakusen Toshi Asterisk: [Rewatch] 
 
 19:09 - 19:34 01
 19:34 - 19:59 02
@@ -1370,13 +1385,13 @@ Gakusen Toshi Asterisk (Re-Assistido)
 22:47 - 23:09 10
 23:09 - 23:32 11
 
-(Temporal Gap - Inicio Horario de verão)
+// (Temporal Gap - Inicio Horario de verão)
 
 15/10/2017
 
-01:20 - 01:43 12  (00:20 - 00:43)
+01:20 - 01:43 12 //Horário sem verão: (00:20 - 00:43)
 
-Gakusen Toshi Asterisk 2
+Gakusen Toshi Asterisk 2:
 
 01:48 - 02:11 01
 02:11 - 02:34 02
@@ -1387,7 +1402,7 @@ Gakusen Toshi Asterisk 2
 16:56 - 17:19 07
 17:20 - 17:42 08
 
-(Cortar Cabelo)
+//(Cortar Cabelo)
 
 19:08 - 19:31 09
 19:34 - 19:56 10
@@ -1412,9 +1427,9 @@ Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV):
 02:10 - 02:33 11
 02:34 - 02:59 12
 
-Fate/Zero (Leoi e Caio)
+Fate/Zero: {Leoi, Caio}
 
-22:51 - 23:39 01
+22:51 - 23:39 01 
 23:49 - 00:18 02
 00:20 - 00:47 03
 
@@ -1438,7 +1453,7 @@ Fate/Zero (Leoi e Caio)
 
 26/10/2017
 
-09:58 - 10:19 13 (Interrompido - aula do ary) (+-21min)
+09:58 - 10:19 13 //(Interrompido - aula do ary) (+-21min)
 
 Koi to Uso
 
