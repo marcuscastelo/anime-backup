@@ -2689,38 +2689,41 @@ Seitokai Yakuindomo* OVA:
 
 10:28 - 10:51 07
 
-Kyoukai no Kanata: Shinonome (Com Marcos Antônio Gomes Júnior):
+//Dia que o marcos veio falando que perdeu a memória
+Kyoukai no Kanata: Shinonome: {Marcos Antônio Gomes Júnior}
 
-22:06 - 22:28 01 (OVA00 do anime)
+22:06 - 22:28 01 //(OVA00 na pasta)
 
-Kyoukai no Kanata (Com Marcos Antônio Gomes Júnior até o 12):
-22:29 - 22:53 01
-22:55 - 23:17 02
-23:18 - 23:40 03
-23:40 - 00:02 04
-00:02 - 00:23 05
-00:24 - 00:45 06
-00:45 - 01:07 07
-01:08 - 01:28 08 (Marcos dormiu)
+Kyoukai no Kanata:
+
+22:29 - 22:53 01 {Marcos Antônio Gomes Júnior}
+22:55 - 23:17 02 {Marcos Antônio Gomes Júnior}
+23:18 - 23:40 03 {Marcos Antônio Gomes Júnior}
+23:40 - 00:02 04 {Marcos Antônio Gomes Júnior}
+00:02 - 00:23 05 {Marcos Antônio Gomes Júnior}
+00:24 - 00:45 06 {Marcos Antônio Gomes Júnior}
+00:45 - 01:07 07 {Marcos Antônio Gomes Júnior}
+01:08 - 01:28 08 {Marcos Antônio Gomes Júnior} //(Marcos dormiu)
 
 14/10/2018
 
-11:50 - 12:12 08 (reassistido)
-12:12 - 12:33 09
-12:34 - 12:54 10
-12:54 - 13:15 11
-13:15 - 13:39 12
+11:50 - 12:12 08 {Marcos Antônio Gomes Júnior} [Rewatch]
+12:12 - 12:33 09 {Marcos Antônio Gomes Júnior}
+12:34 - 12:54 10 {Marcos Antônio Gomes Júnior}
+12:54 - 13:15 11 {Marcos Antônio Gomes Júnior}
+13:15 - 13:39 12 {Marcos Antônio Gomes Júnior}
 
 Citrus:
 
-16:52 - 17:16 01 (Com Marcos)
-(Ele foi embora...)
-17:29 - 17:51 02 (QQ eu to fazeno)
+16:52 - 17:16 01 {Marcos Antônio Gomes Júnior}
+//(Ele foi embora...)
+17:29 - 17:51 02 //(QQ eu to fazeno)
 17:52 - 18:14 03
 18:15 - 18:38 04
 18:38 - 19:03 05
 19:03 - 19:26 06
-19:27 - 19:40 07 (player crashou em 10:40) 19:56 - 20:07
+19:27 - 19:40 -- //(player crashou em 10:40) 
+19:56 - 20:07 07
 
 15/10/2018
 
@@ -2734,20 +2737,20 @@ Citrus:
 
 Sword Art Online: Alicization:
 
-04:31 - 04:53 02 (Com Gary)
+04:31 - 04:53 02 {Gary}
 
 18/10/2018
 
-Golbin Slayer (Com Igor):
+Golbin Slayer:
 
-13:24 - 13:46 01
-13:49 - 14:13 02
+13:24 - 13:46 01 {Igor}
+13:49 - 14:13 02 {Igor}
 
 20/10/2018
 
 Sword Art Online: Alicization:
 
-16:39 - 17:06 03 (Gary)
+16:39 - 17:06 03 {Gary}
 
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
@@ -2758,13 +2761,14 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 21/10/2018
 
 Darling in the FranXX:
-(pulei o 19.5.... sorry)
+
+[EPISODE-SKIP] //(pulei o 19.5.... sorry)
 
 18:11 - 18:35 20
 18:35 - 19:00 21
 19:01 - 19:25 22
 19:25 - 19:49 23
-19:50 - 20:14 24 (WTF just happened)
+19:50 - 20:14 24 //(WTF just happened)
 
 22/10/2018
 
@@ -2780,7 +2784,7 @@ Overlord II:
 
 Tensei Shitara Slime Datta Ken:
 
-22:15 - 22:43 01 (Com ViniRusso)
+22:15 - 22:43 01 {ViniRusso}
 22:44 - 23:13 02
 23:13 - 23:36 03
 23:36 - 00:02 04
@@ -2822,30 +2826,29 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 21:31 - 21:56 04
 
-Shokugeki no Souma: San no Sara: (com Jair até 20,5)
+Shokugeki no Souma: San no Sara: //(com Jair até 20,5)
 
-22:02 - 22:25 13
-22:26 - 22:48 14
-22:56 - 23:17 15
+22:02 - 22:25 13 {Jair}
+22:26 - 22:48 14 {Jair}
+22:56 - 23:17 15 {Jair}
 
 26/10/2018
 
-00:20 - 00:40 16 
+00:20 - 00:40 16 {Jair} 
 
 27/10/2018
 
-22:27 - 22:50 17
-22:50 - 23:14 18
-23:15 - 23:38 19
-23:44 - 00:07 20
-
-00:11 - 00:18 (7 min, mas net jair caiu) 21
+22:27 - 22:50 17 {Jair}
+22:50 - 23:14 18 {Jair}
+23:15 - 23:38 19 {Jair}
+23:44 - 00:07 20 {Jair}
+00:11 - 00:18 -- {Jair} //(7 min, mas net jair caiu)
 
 29/10/2018
 
-Goblin Slayer (Com Igor):
+Goblin Slayer:
 
-13:11 - 13:33 04
+13:11 - 13:33 04 {Igor}
 
 Tensei Shitara Slime Datta Ken:
 
@@ -2853,9 +2856,9 @@ Tensei Shitara Slime Datta Ken:
 
 Sword Art Online: Alicization:
 
-20:56 - 21:21 04 (Sozinho)
+20:56 - 21:21 04 //(Sozinho)
 
-Fairy Tail: Final Series: (Sozinho)
+Fairy Tail: Final Series: //(Sozinho)
 
 21:55 - 22:17 02
 22:17 - 22:38 03
@@ -2865,17 +2868,17 @@ IS: Infinite Stratos:
 
 23:36 - 00:02 03
 
-02/11/2018 (enem dia 4 hein)
+02/11/2018 //(enem dia 4 hein)
 
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 17:06 - 17:30 05
 
-03/11/2018 (AAAAA ENEM AMANHA)
+03/11/2018  //(AAAAA ENEM AMANHA)
 
 Shokugeki no Souma: San no Sara:
-(Sem jair)
-17:15 - 17:31 21 (7+min)
+//(Sem jair)
+17:15 - 17:31 21 //(O resto depois dos 7 min)
 17:31 - 17:54 22
 17:54 - 18:17 23
 18:18 - 18:39 24
@@ -2883,8 +2886,8 @@ Shokugeki no Souma: San no Sara:
 04/11/2018
 
 Goblin Slayer:
-(Com Igor, pós enem ;_; 55/90 questões)
-23:33 - 23:56 05
+//(Com Igor, pós enem ;_; 55/90 questões)
+23:33 - 23:56 05 {Igor}
 
 05/11/2018
 
@@ -2907,7 +2910,8 @@ IS: Infinite Stratos:
 22:24 - 22:46 11
 22:47 - 23:09 12
 
-IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou:    //(escrita original: Infinite Stratos: Encore Koi ni Kogareru Sextet)
+IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou:   
+//(escrita original: Infinite Stratos: Encore Koi ni Kogareru Sextet)
 
 23:11 - 23:35 01
 
@@ -2923,20 +2927,21 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 10/11/2018
 
-Fairy Tail: Final Series: (Com gary)
+Fairy Tail: Final Series:
 
-23:49 - 00:12 06
+23:49 - 00:12 06 {Gary}
 
 11/11/2018
-(Sozinho)
+//(Sozinho)
 
-23:34 - 23:56 05 (Sim, vi o 6 antes :'( )
+[UNSAFE-ORDER]
+23:34 - 23:56 05 //(Sim, vi o 6 antes :'( )
 
 12/11/2018
 
-Goblin Slayer (Igor)
+Goblin Slayer:
 
-23:41 - 00:05 06
+23:41 - 00:05 06 {Igor}
 
 13/11/2018
 
@@ -2957,7 +2962,8 @@ Sword Art Online: Alicization:
 
 17/11/2018
 
-Albergue [Netflix] (Com Jair, Caorti, Marfint/Felipe)
+[NOT-ANIME]
+Albergue: {Jair, Caorti, Marfint} //Netflix 
 
 01:50 - 03:20 01
 
@@ -2969,9 +2975,9 @@ Fairy Tail: Final Series:
 
 21:05 - 21:28 07
 
-19/11/2018 (Pós Unicamp: 59/90...)
+19/11/2018 //(Pós Unicamp: 59/90...)
 
-Tensei Shitara Slime Datta Ken
+Tensei Shitara Slime Datta Ken:
 
 22:45 - 23:08 08
 
@@ -2979,7 +2985,7 @@ Tensei Shitara Slime Datta Ken
 
 Goblin Slayer:
 
-00:20 - 00:45 07 (Com Igor)
+00:20 - 00:45 07  {Igor}
 
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
@@ -2989,9 +2995,9 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 Sword Art Online: Alicization:
 
-17:11 - 17:35 08 (Com Gary)
+17:11 - 17:35 08 {Gary}
 
-26/11/2018 (Pós fuvest aaahhh 53/90)
+26/11/2018 //(Pós fuvest aaahhh 53/90)
 
 Tensei Shitara Slime Datta Ken:
 
@@ -2999,7 +3005,7 @@ Tensei Shitara Slime Datta Ken:
 
 Fairy Tail Final Series:
 
-19:09 - 19:33 08 (Sozinho)
+19:09 - 19:33 08 //(Sozinho)
 
 IS: Infinite Stratos 2:
 
@@ -3022,7 +3028,7 @@ Danshi Koukosei no Nichijou:
 22:38 - 23:02 01
 23:02 - 23:26 02
 
-28/11/2018 (Aniversário mãe)
+28/11/2018 //(Aniversário mãe)
 
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
@@ -3032,27 +3038,27 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 No Game No Life: Zero:
 
-00:21 - 01:14 (Net caiu nos 51 min................ pq sempre que vou ver um filme isso acontece?)
-19:19 - 20:11 Finalizado
+00:21 - 01:14 -- //(Net caiu nos 51 min................ pq sempre que vou ver um filme isso acontece?)
+19:19 - 20:11 01
 
 01/12/2018
 
 Sword Art Online: Alicization:
 
-17:28 - 17:52 09 (Sozinho)
+17:28 - 17:52 09 //(Sozinho)
 
 02/12/2018
 
 Fairy Tail: Final Series:
 
-20:21 - 20:43 09 (Com Gary)
+20:21 - 20:43 09 {Gary}
 
 03/12/2018
 
 Goblin Slayer:
-(Igor)
-01:36 - 01:59 08
-02:00 - 02:22 09
+
+01:36 - 01:59 08 {Igor}
+02:00 - 02:22 09 {Igor}
 
 Tensei Shitara Slime Datta Ken:
 
@@ -3065,13 +3071,13 @@ Animegataris:
 00:52 - 01:15 01
 01:16 - 01:38 02
 
-06/12/2018 (Primeira aula de moto)
+06/12/2018 //(Primeira aula de moto)
 
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 18:41 - 19:08 10
 
-08/12/2018 (Descobri que não passei na Unicamp... BUÁÁÁÁÁÁ)
+08/12/2018 //(Descobri que não passei na Unicamp... BUÁÁÁÁÁÁ)
 
 Fairy Tail: Dragon Cry:
 
@@ -3146,7 +3152,7 @@ Fairy Tail: Final Series:
 
 01:28 - 01:51 12
 
-25/12/2018 (Pior natal de todos, tirando a parte dos meus primos por parte de mãe estarem crescidos)
+25/12/2018 //(Pior natal de todos, tirando a parte dos meus primos por parte de mãe estarem crescidos)
 
 Tensei Shitara Slime Datta Ken:
 
@@ -3154,13 +3160,13 @@ Tensei Shitara Slime Datta Ken:
 
 26/12/2018
 
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 22:34 - 23:00 13
 
 29/12/2018
 
-Goblin Slayer
+Goblin Slayer:
 
 {Igor}
 
@@ -3169,7 +3175,7 @@ Goblin Slayer
 
 //HAPPY NEW YEAR 2019 :)
 
-06/01/2019 Fuvest 2a fase 1o dia
+06/01/2019 //Fuvest 2a fase 1o dia
 
 Sword Art Online: Alicization:
 
@@ -3183,7 +3189,7 @@ Koyomi History:
 
 22:36 - 22:41 01
 
-08/01/2019 - Saida com o pessoal pós fuvest (ontem)
+08/01/2019 //Saida com o pessoal pós fuvest (ontem)
 
 Tensei Shitara Slime Datta Ken:
 
@@ -3231,7 +3237,7 @@ Devilman Crybaby:
 22:31 - 22:54 03
 22:54 - 23:16 04
 
-12/01/2019 (Passeio de escuna)
+12/01/2019 //(Passeio de escuna)
 
 07:44 - 08:07 05
 08:07 - 08:28 06
@@ -3240,7 +3246,7 @@ Devilman Crybaby:
 13:47 - 14:08 09
 14:10 - 14:31 10
 
-Bakemonogatari (Rewatch):
+Bakemonogatari: [Rewatch]
 
 22:56 - 23:22 06
 23:23 - 23:48 07
@@ -3256,13 +3262,13 @@ Fairy Tail: Final Series:
 
 01:15 - 01:37 14
 
-Bakemonogatari (Rewatch):
+Bakemonogatari: [Rewatch]
 
 02:10 - 02:35 09
 02:36 - 03:01 10
 03:02 - 03:28 11
 
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
 
 21:08 - 21:33 01
 
@@ -3274,7 +3280,7 @@ Asobi Asobase:
 
 22:20 - 22:48 01
 
-Bakemonogatari (Rewatch):
+Bakemonogatari: [Rewatch]
 
 22:56 - 23:21 12
 23:22 - 23:48 13
@@ -3297,7 +3303,7 @@ Tensei Shitara Slime Datta Ken:
 Saiki Kusuo no Psi-nan:
 
 17:03 - 17:24 05
-17:35 - 17:43 (auto escola) (09:50)
+17:35 - 17:43 -- //(auto escola) (09:50)
 22:03 - 22:17 06
 22:17 - 22:38 07
 22:38 - 22:59 08
@@ -3412,7 +3418,8 @@ Fairy Tail: Final Series:
 
 21:13 - 21:35 15 {Gary}
 
-Lucifer (Netflix):
+[NOT-ANIME]
+Lucifer: //(Netflix)
 
 23:54 - 00:39 01
 
@@ -3434,7 +3441,8 @@ Lucifer (Netflix):
 01:05 - 01:47 12
 01:47 - 02:30 13
 
-Lucifer II (Netflix):
+[NOT-ANIME]
+Lucifer II: //(Netflix)
 
 02:43 - 03:26 01
 03:26 - 04:09 02
@@ -3458,7 +3466,8 @@ Lucifer II (Netflix):
 02:44 - 03:26 17
 03:26 - 04:09 18
 
-Lucifer III (Netflix):
+[NOT-ANIME]
+Lucifer III: //(Netflix)
 
 04:10 - 04:52 01
 04:52 - 05:35 02
@@ -3468,6 +3477,7 @@ Tensei Shitara Slime Datta Ken:
 
 17:11 - 17:35 16
 
+[NOT-ANIME]
 Lucifer III:
 
 18:18 - 19:02 04
@@ -3494,7 +3504,7 @@ Lucifer III:
 22:17 - 23:03 22
 23:57 - 00:41 23
 
-24/01/2019 (Fiz escolha sisu e passei na FUVEST!!)
+24/01/2019 //(Fiz escolha sisu e passei na FUVEST!!)
 
 00:42 - 01:25 24
 01:25 - 02:24 25
@@ -3506,7 +3516,7 @@ Tate no Yuusha no Nariagari:
 
 Yakusoku no Neverland:
 
-22:16 - 23:38
+22:16 - 23:38 03
 
 25/01/2019
 
@@ -3518,7 +3528,7 @@ Nisemonogatari:
 
 Sword Art Online: Alicization:
 
-02:20 - 02:42 16 {Gary} (Internet caiu (ou player travou)?  não lembro)
+02:20 - 02:42 -- {Gary} //(Internet caiu (ou player travou)?  não lembro)
 14:56 - 15:19 16
 
 29/01/2019
@@ -3571,7 +3581,7 @@ Tensei Shitara Slime Datta Ken:
 
 03:57 - 04:19 18
 
-Tate no Yuusha no Nariagari
+Tate no Yuusha no Nariagari:
 
 21:52 - 22:14 05
 
@@ -3619,15 +3629,15 @@ Yakusoku no Neverland:
 
 13:00 - 13:22 06
 
-Boogiepop wa Warawanai
+Boogiepop wa Warawanai:
 
 13:23 - 13:46 08
 
-17/02/2019 (Estou em São Carlos agora) (Net horrível)
+17/02/2019 //(Estou em São Carlos agora) (Net horrível)
 
 21/02/2019
 
-Kaguya-sama wa Kokurasetai
+Kaguya-sama wa Kokurasetai:
 
 14:10 - 14:34 06
 
@@ -3635,11 +3645,11 @@ Kaguya-sama wa Kokurasetai
 
 Love Live! 2:
 
-22:22 - 22:44 01 {Jesus e Guerra}
+22:22 - 22:44 01 {Jesus, Guerra}
 
 Watamote:
 
-{Jesus e Guerra}
+{Jesus, Guerra}
 
 22:50 - 23:12 01
 23:15 - 23:37 02
@@ -3657,7 +3667,7 @@ Watamote:
 
 15:44 - 16:06 04 {Jesus}
 16:07 - 16:30 05 {Jesus}
-16:33 - 16:56 06 {Guerra e Jesus}
+16:33 - 16:56 06 {Guerra, Jesus}
 
 One Punch Man Specials:
 
@@ -3668,7 +3678,7 @@ Mr. Robot:
 20:05 - 21:10 01 {Guerra}
 21:18 - 22:05 02 {Guerra}
 
-03/03/2019 (Em Santos)
+03/03/2019 //(Em Santos)
 
 Kaguya-sama wa Kokurasetai:
 
@@ -3716,6 +3726,7 @@ Fairy Tail: Final Series:
 
 05/03/2019
 
+[NOT-ANIME]
 Mr. Robot:
 
 16:58 - 17:52 03
@@ -3741,6 +3752,7 @@ Prison School: Mad Wax:
 
 06/03/2019
 
+[NOT-ANIME]
 Mr. Robot:
 
 21:17 - 22:05 04
@@ -3773,6 +3785,7 @@ Boogiepop wa Warawanai:
 23:43 - 00:05 15
 
 //Animes -> passar lista oficial:
+//Oq isso significava?
 
 10/03/2019
 
@@ -3819,12 +3832,12 @@ One Punch Man Specials:
 
 Watamote:
 
-21:44 - 22:07 07 {Guerra, Jesus, Pedro Campos e Grilo}
-22:07 - 22:31 08 {Guerra, Jesus, Pedro Campos e Grilo}
+21:44 - 22:07 07 {Guerra, Jesus, Pedro Campos, Grilo}
+22:07 - 22:31 08 {Guerra, Jesus, Pedro Campos, Grilo}
 
 Jojo Part 5:
 
-22:37 - 22:59 22 {Guerra, Jesus, Pedro Campos e Grilo}
+22:37 - 22:59 22 {Guerra, Jesus, Pedro Campos, Grilo}
 
 16/03/2019
 
@@ -3949,7 +3962,7 @@ Animegataris:
 
 30/03/2019
 
-Sword Art Online: Alicization
+Sword Art Online: Alicization:
 
 19:01 - 19:26 24
 
@@ -3981,7 +3994,7 @@ Zoku Owarimonogatari:
 
 06/04/2019
 
-Anohana:
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.:
 
 18:43 - 19:05 01
 19:06 - 19:28 02
@@ -4050,19 +4063,18 @@ Fairy Gone:
 
 20/04/2019
 
-Game of Thrones: (Já havia assistido antes mais não lembro)
+[NOT-ANIME]
+Game of Thrones: //(Já havia assistido antes mais não lembro)
 
 {Luiz, Vitinho, Gary}
-[Sem sentido]
 
-02:05 - 02:27 01 (interrompido)
+02:05 - 02:27 01 //(interrompido) sem sentido
 
 Darling in The FranXX:
 
 {Luiz, Vitinho, Gary}
-[Sem sentido]
 
-02:32 - 02:58 01
+02:32 - 02:58 01 //sem sentido
 
 Kimetsu no Yaiba:
 
@@ -4076,7 +4088,8 @@ Fairy Tail: Final Series:
 
 02:18 - 02:41 28
 
-Anohana: [No onibus para sanca]
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai: 
+//No onibus para sanca
 
 21:18 - 21:40 08
 21:41 - 22:02 09
@@ -4286,7 +4299,7 @@ Steins;Gate 0:
 16:53 - 17:18 06
 17:18 - 17:41 07
 
-Steins;Gate [Rewatch]:
+Steins;Gate: [Rewatch]
 
 18:16 - 18:40 01
 18:41 - 19:04 02
@@ -4311,7 +4324,7 @@ Steins;Gate [Rewatch]:
 
 13/05/2019
 
-Steins;Gate [Rewatch]:
+Steins;Gate: [Rewatch]
 
 09:55 - 10:18 21
 10:18 - 10:40 22
@@ -4397,11 +4410,11 @@ Kimetsu no Yaiba:
 
 13:49 - 14:11 08
 
-Tate no Yuusha no Nariagari
+Tate no Yuusha no Nariagari:
 
 14:15 - 14:36 20
 
-Fairy Tail: Final Series: // (Pós round 2 do gema):
+Fairy Tail: Final Series: // (Pós round 2 do gema)
 
 20:06 - 20:03 33
 
@@ -4457,7 +4470,7 @@ Tate no Yuusha no Nariagari:
 
 02/06/2019
 
-Kimetsu no Yaiba
+Kimetsu no Yaiba:
 
 21:57 - 22:18 09
 
@@ -4471,7 +4484,7 @@ Kenja no Mago:
 
 04/06/2019
 
-Sword Art Online: Ordinal Scale
+Sword Art Online: Ordinal Scale:
 
 14:12 - 16:21 01
 
@@ -4485,7 +4498,7 @@ Shingeki no Kyojin 3 part 2:
 
 05/06/2019
 
-Tate no Yuusha no Nariagari
+Tate no Yuusha no Nariagari:
 
 21:01 - 21:22 22
 
@@ -4574,7 +4587,7 @@ Suzumiya Haruhi no Yuutsu:
 
 Shinmai Maou no Testament Departures:
 
-22:55 - 23:42 01 (Dropped na metade)
+22:55 - 23:42 01 //(Dropped na metade)
 
 15/06/2019
 
@@ -4750,11 +4763,13 @@ Blood Lad:
 
 02/07/2019
 
-
 18:08 - 18:31 08 
 19:39 - 20:04 09
 20:04 - 20:29 10
-20:29 - 20:56 OVA
+
+Blood Lad: Wagahai wa Neko de wa Nai:
+
+20:29 - 20:56 01
 
 One Punch Man 2:
 
@@ -4810,6 +4825,7 @@ Dumbbell Nan Kilo Moteru?:
 
 19/07/2019
 
+[NOT-ANIME]
 Doctor Who S11:
 
 03:47 - 04:47 00 {Gary, Luiz}
@@ -4834,6 +4850,7 @@ Dr. Stone:
 
 24/07/2019
 
+[NOT-ANIME]
 La Casa de Papel 3:
 
 {Caorti}
@@ -4843,6 +4860,7 @@ La Casa de Papel 3:
 
 25/07/2019
 
+[NOT-ANIME]
 La Casa de Papel 3:
 
 {Caorti}
@@ -4857,6 +4875,7 @@ Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow:
 
 04:59 - 05:56 01
 
+[NOT-ANIME]
 La Casa de Papel 3:
 
 {Caorti}
@@ -4950,7 +4969,7 @@ Kimetsu no Yaiba:
 
 22:23 - 22:47 18
 
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II:
 
 22:49 - 23:11 04
 
@@ -4989,6 +5008,7 @@ Kanata no Astra:
 00:32 - 00:56 05
 00:56 - 01:18 06
 
+[NOT-ANIME]
 Big Mouth:
 
 15:28 - 15:54 01
@@ -5015,6 +5035,7 @@ Fairy Tail: Final Series:
 
 11/08/2019
 
+[NOT-ANIME]
 Big Mouth:
 
 14:47 - 15:11 06
@@ -5023,6 +5044,7 @@ Big Mouth:
 18:42 - 19:09 09
 19:09 - 19:39 10
 
+[NOT-ANIME]
 Big Mouth 2:
 
 19:45 - 20:16 01
@@ -5042,6 +5064,7 @@ Big Mouth 2:
 15:41 - 16:07 09
 16:14 - 16:42 10
 
+[NOT-ANIME]
 Big Mouth 3:
 
 16:43 - 17:35 01
@@ -5638,7 +5661,7 @@ Princess Principal:
 04/11/2019
 
 //Vamo acabar essa merda logo
-Fairy Tail: Final Series
+Fairy Tail: Final Series:
 
 23:01 - 23:24 50
 23:24 - 00:00 51
@@ -5753,7 +5776,7 @@ Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru:
 
 Ore wo Suki nano wa Omae dake ka yo:
 
-20:10 - 20:32
+20:10 - 20:32 07
 
 14/11/2019
 
@@ -6146,7 +6169,7 @@ Boku no Hero Academia 4:
 
 20:51 - 21:14 10
 
-Sword Art Online: Alicization - War of Underworld
+Sword Art Online: Alicization - War of Underworld:
 
 21:16 - 21:41 11
 
