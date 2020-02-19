@@ -6040,6 +6040,7 @@ One Piece:
 14:58 - 15:19 97 {Lucas Romero}
 15:30 - 15:53 98 {Lucas Romero}
 15:54 - 16:15 99 {Lucas Romero}
+
 16:16 - 16:40 100 {Lucas Romero}
 16:42 - 17:04 101 {Lucas Romero}
 
@@ -6559,6 +6560,13 @@ Murenase! Seton Gakuen:
 Ao Haru Ride:
 
 23:43 - 00:06 04 {Lucas Romero}
+
+19/02/2020
+
 00:09 - 00:31 05 {Lucas Romero}
 00:42 - 01:04 06 {Lucas Romero}
 01:05 - 01:27 07 {Lucas Romero}
+
+One Piece:
+
+02:19
