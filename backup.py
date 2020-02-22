@@ -40,8 +40,8 @@ def _generate_settings():
     settings_file.writelines([
         'OLD_FOLDER=old' + ( 'Windows' if IS_WINDOWS else 'Linux' ) + '\n',
         'MAX_AGE=30\n', #days
-        'FILE_BASENAME=animes\n',
-        'FILE_EXT=.txt\n'
+        'FILE_BASENAME=anilist\n',
+        'FILE_EXT=.anl\n'
     ])
     settings_file.close()
 
