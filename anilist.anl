@@ -6820,8 +6820,7 @@ Boku no Hero Academia 4th Season:
 
 19:34 - 19:57 19
 
-[SCRIPT-DANGER] 
-//Not in MAL yet 25/02/2020
+[NOT-IN-MAL]
 //Director's Cut
 Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban:
 
@@ -6848,7 +6847,7 @@ Poputepipikku:
 
 27/02/2020
 
-[SCRIPT-DANGER] 
+[NOT-IN-MAL]
 //Not in MAL yet 27/02/2020
 //Director's Cut
 Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban:
@@ -6899,8 +6898,7 @@ Isekai Quartet 2:
 
 04/03/2020
 
-[SCRIPT-DANGER] 
-//Not in MAL yet 04/03/2020
+[NOT-IN-MAL]
 //Director's Cut
 Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban:
 
@@ -7725,8 +7723,7 @@ Kanojo, Okarishimasu:
 
 00:31 - 00:56 03
 
-[SCRIPT-DANGER]
-//Not in MAL
+[NOT-IN-MAL]
 Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban:
 
 01:12 - 02:06 10
@@ -7742,7 +7739,7 @@ Sword Art Online: Alicization - War of Underworld 2nd Season:
 
 26/07/2020
 
-[SCRIPT-DANGER]
+[NOT-IN-MAL]
 Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban:
 
 23:21 - 00:13 12
@@ -7830,6 +7827,7 @@ Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shiso
 02/08/2020
 
 [SCRIPT-DANGER]
+[NOT-ANIME]
 SpongeBob Anime:
 
 03:13 - 03:26 01
@@ -7892,8 +7890,7 @@ Kanojo, Okarishimasu:
 14:01 - 14:27 05
 
 [NOT-ANIME]
-[SCRIPT-DANGER]
-//EPS ISOLADOS (nao vi antes nem pretendo ver dps)
+[SCRIPT-DANGER] //EPS ISOLADOS (nao vi antes nem pretendo ver dps)
 O Mentalista:
 
 17:17 - 18:00 05 {Pai, Mãe}
@@ -7909,7 +7906,7 @@ Sword Art Online: Alicization - War of Underworld 2nd Season:
 09/08/2020
 
 [NOT-ANIME]
-[SCRIPT-DANGER]
+[SCRIPT-DANGER] //Não vi o primeiro mesmo
 Mundo Mistério:
 
 16:40 - 17:02 02 {Henrique}
@@ -7933,7 +7930,7 @@ Deca-Dence:
 
 13/08/2020
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [Rewatch]
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [REWATCH]
 
 21:45 - 22:09 02
 
@@ -8013,12 +8010,11 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season:
 02:01 - 02:25 14
 02:25 - 02:48 15
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [Rewatch]
+//Atualizei o sublime-anime para reconhecer as flags, ex: REWATCH
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [REWATCH]
 
 19:45 - 20:08 03
 20:10 - 20:36 04
 20:36 - 21:00 05
 21:02 - 21:09 -- //Player travou em 04:22
-
-
-
