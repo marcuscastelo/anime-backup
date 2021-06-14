@@ -1,4 +1,4 @@
-[SCRIPT-DANGER=2-285]
+[SCRIPT-SKIP(count=283)]
 vi pela data de adição do favorito do chrome esses 2)
 Finished (Added as Favorite) at 14/12/2013 ☺ Campione ☺ Ep1-13  
 Finished (Added as Favorite) at 14/12/2013 ☺ Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru ☺ Ep1-10
@@ -123,7 +123,7 @@ Entre 16/05/2016 e 28/08/2016: Akame ga Kill
 }
 
 11/07/2016 17:36 - 11/07/2016 23:45 ☺ Sakamoto Desu Ga? ☺ 1-12
-13/07/2016 19:19 - 13/07/2016 21:10 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ 12-14
+13/07/2016 19:19 - 13/07/2016 21:10 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ 12-14
 30/07/2016 20:21 - 30/07/2016 20:33 ☺ Ore No Nounai Sentakushi Ga, Gakuen Love Comedy ☺ Ova 1
 30/07/2016 20:33 - 30/07/2016 20:38 ☺ Ao No Exorcist ☺ Ova 1-6
 30/07/2016 21:12 - 30/07/2016 21:15 ☺ Ao No Exorcist ☺ Ova 7-10
@@ -148,7 +148,7 @@ Entre 16/05/2016 e 28/08/2016: Akame ga Kill
 31/07/2016 19:16 - 31/07/2016 19:42 ☺ Charlotte: Tsuyoimono-tachi ☺ Ova 1
 31/07/2016 19:47 - 31/07/2016 19:53 ☺ Okusama Ga Seitokaichou! ☺ Ova 1
 31/07/2016 20:37 - 01/08/2016 01:30 ☺ Angel Beats ☺ 1-13 + Ova 1-2
-02/08/2016 22:25 - 03/08/2016 00:10 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ Ep15-18
+02/08/2016 22:25 - 03/08/2016 00:10 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ Ep15-18
 03/08/2016 20:56 - 03/08/2016 21:19 ☺ Nichijou! ☺ Ep01
 06/08/2016 20:43 - 06/08/2016 21:27 ☺ Musaigen no Phantom Wolrd ☺ Ep01-02
 08/08/2016 01:02 - 08/08/2016 01:47 ☺ Musaigen no Phantom World ☺ Ep03-04
@@ -157,11 +157,11 @@ Entre 16/05/2016 e 28/08/2016: Akame ga Kill
 15/08/2016 22:32 - 16/08/2016 00:00 ☺ Musaigen no Phantom World ☺ Ep10-13
 18/08/2016 22:03 - 18/08/2016 23:50 ☺ Grisaia no Rakuen ☺ Ep01-05
 19/08/2016 21:51 - 19/08/2016 22:41 ☺ Grisaia no Rakuen ☺ Ep06-07
-21/08/2016 23:25 - 22/08/2016 00:35 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ Ep19-21
+21/08/2016 23:25 - 22/08/2016 00:35 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ Ep19-21
 22/08/2016 01:15 - 22/08/2016 01:35 ☺ Grisaia no Rakuen ☺ Ep08 
-29/08/2016 22:17 - 29/08/2016 22:39 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ Ep22
-07/09/2016 22:05 - 07/09/2016 22:23 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ Ep23
-11/09/2016 23:00 - 11/09/2016 23:20 ☺ Re:Zero Kara Hajimeru Isekai Seikatsu ☺ Ep24 
+29/08/2016 22:17 - 29/08/2016 22:39 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ Ep22
+07/09/2016 22:05 - 07/09/2016 22:23 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ Ep23
+11/09/2016 23:00 - 11/09/2016 23:20 ☺ Re:Zero kara Hajimeru Isekai Seikatsu ☺ Ep24 
 13/09/2016 01:10 - 13/09/2016 01:31 ☺ Shigatsu Wa Kimi no Uso ☺ Ep01
 13/09/2016 23:17 - 13/09/2016 23:40 ☺ Shigatsu Wa Kimi no Uso ☺ Ep02
 14/09/2016 00:42 - 14/09/2016 03:40 ☺ Shigatsu Wa Kimi no Uso ☺ Ep03-10
@@ -170,7 +170,7 @@ Entre 16/05/2016 e 28/08/2016: Akame ga Kill
 
 18/09/2016
 
-Re:Zero Kara Hajimeru Isekai Seikatsu:
+Re:Zero kara Hajimeru Isekai Seikatsu:
 
 16:31 - 17:03 25
 17:03 - 17:06 Ova01
@@ -299,6 +299,8 @@ Kiznaiver:
 
 26/01/2017 
 
+Kiznaiver:
+
 00:07 - 00:29 09
 00:30 - 00:54 10
 00:55 - 01:17 11
@@ -318,6 +320,8 @@ Seitokai Yakuindomo:
 
 27/01/2017 
 
+Seitokai Yakuindomo:
+
 00:41 - 01:10 10
 01:10 - 01:37 11
 01:38 - 02:07 12
@@ -328,6 +332,8 @@ Seitokai Yakuindomo OVA:
 02:38 - 03:06 01
 
 28/01/2017 
+
+Seitokai Yakuindomo OVA:
 
 02:42 - 03:15 02
 03:17 - 03:44 03
@@ -351,9 +357,13 @@ Seitokai Yakuindomo*:
 
 30/01/2017
 
+Seitokai Yakuindomo*:
+
 23:42 - 00:12 08
 
 31/01/2017
+
+Seitokai Yakuindomo*:
 
 00:13 - 00:47 09
 00:47 - 01:19 10
@@ -502,10 +512,14 @@ C³:
 
 28/02/2017
 
+C³:
+
 00:12 - 00:34 04
 00:34 - 00:57 05
 
 01/03/2017
+
+C³:
 
 15:31 - 15:54 06
 15:57 - 16:20 07
@@ -558,6 +572,8 @@ C³:
 04:48 - 05:10 10
 
 08/03/2017
+
+C³:
 
 19:52 - 20:14 11
 20:15 - 20:38 12
@@ -613,10 +629,14 @@ Demi-chan wa Kataritai:
 
 26/03/2017
 
+Demi-chan wa Kataritai:
+
 23:13 - 23:38 10
 23:38 - 00:01 11
 
 27/03/2017 
+
+Demi-chan wa Kataritai:
 
 00:01 - 00:25 12
 
@@ -634,15 +654,21 @@ Kono Subarashii Sekai Ni Shukufuku Wo! 2:
 
 07/04/2017
 
+Kono Subarashii Sekai Ni Shukufuku Wo! 2:
+
 00:08 - 00:32 04
 
 08/04/2017
+
+Kono Subarashii Sekai Ni Shukufuku Wo! 2:
 
 00:31 - 00:56 05
 00:57 - 01:20 06
 01:21 - 01:44 07
 
 09/04/2017 
+
+Kono Subarashii Sekai Ni Shukufuku Wo! 2:
 
 13:47 - 14:10 08
 14:11 - 14:36 09
@@ -663,6 +689,8 @@ Psycho Pass:
 
 30/04/2017
 
+Psycho Pass:
+
 01:32 - 01:54 04
 01:54 - 02:16 05
 02:17 - 02:40 06
@@ -670,6 +698,8 @@ Psycho Pass:
 Kiseijuu: Sei no Kakuritsu: //(Parasite)
 
 04/05/2017
+
+Kiseijuu: Sei no Kakuritsu: //(Parasite)
 
 18:58 - 19:20 01
 19:20 - 19:43 02
@@ -693,15 +723,17 @@ Kiseijuu: Sei no Kakuritsu: //(Parasite)
 
 08/05/2017
 
+Kiseijuu: Sei no Kakuritsu: //(Parasite)
+
 00:48 - 01:11 20
 01:11 - 01:34 21
 01:34 - 01:55 22
 01:57 - 02:22 23
 02:22 - 02:46 24
 
-Psycho Pass:
-
 12/05/2017
+
+Psycho Pass:
 
 20:44 - 21:07 07
 21:10 - 21:34 08
@@ -711,6 +743,8 @@ Psycho Pass:
 22:48 - 23:11 12
 
 14/05/2017
+
+Psycho Pass:
 
 11:40 - 12:04 13
 12:05 - 12:28 14
@@ -729,17 +763,17 @@ Kobayashi-san Chi no Maid Dragon:
 19:00 - 19:27 02
 19:28 - 19:54 03
 
-Bakemonogatari: //(Caio?)
-
 22/05/2017
+
+Bakemonogatari: //(Caio?)
 
 22:37 - 23:01 01
 23:39 - 23:53 02
 00:03 - 00:27 03
 
-Eromanga-sensei:
-
 25/05/2017
+
+Eromanga-sensei:
 
 22:41 - 23:04 01
 23:06 - 23:29 02
@@ -750,22 +784,26 @@ Eromanga-sensei:
 
 26/05/2017
 
-22:09 - 22:32 07
+Eromanga-sensei:
 
-Kobayashi-san Chi no Maid Dragon:
+22:09 - 22:32 07
 
 01/06/2017
 
+Kobayashi-san Chi no Maid Dragon:
+
 17:28 - 17:57 04
 
-Bakemonogatari:
-
 05/06/2017
+
+Bakemonogatari:
 
 23:22 - 23:46 04
 23:47 - 00:12 05
 
 06/06/2017
+
+Bakemonogatari:
 
 13:41 - 14:07 06
 14:08 - 14:32 07
@@ -778,10 +816,14 @@ Bakemonogatari:
 
 08/06/2017
 
+Bakemonogatari:
+
 23:15 - 23:40 13
 23:40 - 00:03 14
 
 09/06/2017
+
+Bakemonogatari:
 
 00:03 - 00:30 15
 
@@ -791,6 +833,8 @@ Nisemonogatari:
 23:46 - 00:12 02
 
 10/06/2017
+
+Nisemonogatari:
 
 00:12 - 00:37 03
 00:37 - 01:03 04
@@ -828,6 +872,8 @@ Monogatari Series: Second Season:
 23:42 - 00:11 15
 
 11/06/2017
+
+Monogatari Series: Second Season:
 
 00:22 - 00:48 16
 00:49 - 01:19 17
@@ -869,6 +915,8 @@ Owarimonogatari:
 
 13/06/2017
 
+Owarimonogatari:
+
 00:07 - 00:35 10
 00:35 - 01:01 11
 01:01 - 01:25 12
@@ -908,11 +956,14 @@ One Punch Man:
 23:18 - 23:41 10
 23:41 - 00:04 11
 00:05 - 00:28 12
-00:28 - 00:52 OVA
 
-Kobayashi-san Chi no Maid Dragon:
+One Punch Man: Road to Hero:
+
+00:28 - 00:52 01
 
 04/07/2017
+
+Kobayashi-san Chi no Maid Dragon:
 
 14:53 - 15:16 05
 15:17 - 15:40 06
@@ -928,9 +979,9 @@ Shokugeki no Souma:
 
 21:44 - 22:08 01
 
-Eromanga-sensei:
-
 15/07/2017
+
+Eromanga-sensei:
 
 18:51 - 19:17 08
 19:20 - 19:45 09
@@ -938,9 +989,9 @@ Eromanga-sensei:
 20:09 - 20:35 11
 20:35 - 21:01 12
 
-Kizumonogatari:
-
 17/07/2017
+
+Kizumonogatari:
 
 01:04 - 02:23 03
 
@@ -959,9 +1010,9 @@ Gabriel Dropout:
 22:51 - 23:15 11 
 23:15 - 23:41 12
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: //(Youtube)
-
 18/07/2017
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.: //(Youtube)
 
 07:56 - 08:20 01
 08:20 - 08:44 02 
@@ -974,9 +1025,9 @@ Yahari Ore no Seishun Love Comedy wa Machigatteiru.: //(Youtube)
 22:32 - 22:57 10
 22:57 - 23:21 11
 23:21 - 23:46 12
+[UNSAFE-ORDER]
 23:48 - 00:14 09
 00:16 - 00:40 13
-
 
 19/07/2017
 
@@ -1056,9 +1107,9 @@ Boku no Hero Academia:
 03:38 - 04:01 12
 04:02 - 04:25 13 
 
-Shokugeki no Souma: Ni no Sara:
-
 25/07/2017
+
+Shokugeki no Souma: Ni no Sara:
 
 07:16 - 07:40 02
 07:41 - 08:04 03
@@ -1069,6 +1120,8 @@ Shokugeki no Souma: Ni no Sara:
 
 28/07/2017
 
+Shokugeki no Souma: Ni no Sara:
+
 16:11 - 16:35 08
 16:36 - 17:01 09
 17:01 - 17:25 10 
@@ -1076,9 +1129,9 @@ Shokugeki no Souma: Ni no Sara:
 17:50 - 18:14 12
 18:14 - 18:42 13
 
-Boku no Hero Academia 2:
-
 15/08/2017
+
+Boku no Hero Academia 2:
 
 01:31 - 01:54 01
 01:54 - 02:16 02
@@ -1125,6 +1178,8 @@ Ansatsu Kyoushitsu 2nd Season:
 
 16/08/2016
 
+Ansatsu Kyoushitsu 2nd Season:
+
 19:37 - 20:01 17
 20:01 - 20:24 18
 20:24 - 20:48 19
@@ -1140,6 +1195,8 @@ Psycho Pass 2:
 
 17/08/2017
 
+Psycho Pass 2:
+
 20:23 - 20:45 01
 20:46 - 21:08 02
 21:08 - 21:30 03
@@ -1149,6 +1206,8 @@ Psycho Pass 2:
 
 18/08/2017
 
+Psycho Pass 2:
+
 00:40 - 01:03 07
 01:04 - 01:26 08
 01:26 - 01:46 09
@@ -1156,9 +1215,9 @@ Psycho Pass 2:
 21:22 - 21:43 10
 21:43 - 22:04 11
 
-Youjo Senki:
-
 19/08/2017
+
+Youjo Senki:
 
 13:01 - 13:25 01
 13:27 - 13:52 02
@@ -1173,9 +1232,9 @@ Youjo Senki:
 21:09 - 21:33 11
 21:33 - 21:57 12
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku:
-
 22/08/2017
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku:
 
 18:55 - 19:20 06
 19:20 - 19:44 07
@@ -1185,12 +1244,14 @@ Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku:
 
 27/08/2017
 
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku:
+
 13:55 - 14:20 11
 14:25 - 14:54 12
 
-Death Note: //(YT)
-
 02/09/2017
+
+Death Note: //(YT)
 
 14:26 - 14:48 01
 14:51 - 15:12 02
@@ -1218,6 +1279,8 @@ Death Note: //(YT)
 
 03/09/2017
 
+Death Note: //(YT)
+
 19:38 - 20:03 24
 20:03 - 20:25 25
 20:31 - 20:53 26
@@ -1228,9 +1291,13 @@ Death Note: //(YT)
 
 06/09/2017
 
+Death Note: //(YT)
+
 22:46 - 23:08 31
 
 08/09/2017
+
+Death Note: //(YT)
 
 18:54 - 19:16 32
 19:16 - 19:38 33
@@ -1239,9 +1306,9 @@ Death Note: //(YT)
 20:27 - 20:49 36
 20:50 - 21:11 37
 
-Code Gueass: Hangyaku no Lelouch:
-
 09/09/2017
+
+Code Gueass: Hangyaku no Lelouch:
 
 01:04 - 01:27 01
 01:27 - 01:50 02
@@ -1271,6 +1338,8 @@ Code Geass: Hangyaku no Lelouch:
 18:11 - 18:34 15
 
 16/09/2017
+
+Code Geass: Hangyaku no Lelouch:
 
 18:52 - 19:22 16
 19:23 - 19:45 17
@@ -1325,7 +1394,7 @@ Hajimete no Gal:
 
 Sword Art Online: Ordinal Scale:
 
-13:26 - 13:53 23 min (TA MUITO RUIM A LEGENDA MANO)
+13:26 - 13:53 -- //@23min (TA MUITO RUIM A LEGENDA MANO)
 
 23/09/2017
 
@@ -1347,8 +1416,9 @@ Tsurezure Children:
 24/09/2017 //(Marciel Chora)
 
 Toaru Majutsu no Index:
-
-23:26 - 23:48 08
+//TODO: colocar assisido com o caio em todos? os episodios de toaru (ver em chats com ele sei la)
+[UNSAFE-ORDER]
+23:26 - 23:48 08 //Reassistindo por que caio dormiu
 23:51 - 00:24 09
 00:26 - 00:48 10
 00:49 - 01:12 11
@@ -1357,26 +1427,28 @@ Toaru Majutsu no Index:
 
 Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!:
 
-17:33 - 17:55 1 //(Ova 1)
+17:33 - 17:55 01 //(Ova 1)
 
 Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage (Specials):
 
-18:13 - 18:17 1 //(Ova 2)
-18:19 - 18:23 2 //(Ova 3)
-18:24 - 18:26 3 //(Ova 4)
-18:29 - 18:34 4 //(Ova 5)
-18:39 - 18:43 5 //(Ova 6)
-18:47 - 18:52 6 //(Ova 7)
-18:53 - 18:58 7 //(Ova 8)
+18:13 - 18:17 01 //(Ova 2)
+18:19 - 18:23 02 //(Ova 3)
+18:24 - 18:26 03 //(Ova 4)
+18:29 - 18:34 04 //(Ova 5)
+18:39 - 18:43 05 //(Ova 6)
+18:47 - 18:52 06 //(Ova 7)
+18:53 - 18:58 07 //(Ova 8)
 
+[REWATCH]
 Angel Beats! Specials:
 
-19:01 - 19:25 01 [Rewatch?] //não sei se ja tinha assistido
-19:31 - 20:02 02 [Rewatch]
+19:01 - 19:25 01 //não sei se ja tinha assistido
+19:31 - 20:02 02
 
+[REWATCH]
 Angel Beats!: Another Epilogue:
 
-20:05 - 20:07 01 [Rewatch]
+20:05 - 20:07 01
 
 Toaru Majutsu no Index:
 
@@ -1387,6 +1459,8 @@ Toaru Majutsu no Index:
 23:15 - 23:41 16
 
 26/09/2017
+
+Toaru Majutsu no Index:
 
 19:00 - 19:22 17
 19:32 - 19:55 18
@@ -1403,7 +1477,8 @@ Madoka Magica Filmes:
 
 17:24 - 19:22 03
 
-Sword Art Online: [Rewatch]
+[REWATCH]
+Sword Art Online: 
 
 00:23 - 00:46 03 {Gary, Vitinho} 
 00:47 - 01:12 04 {Gary, Vitinho}
@@ -1517,11 +1592,15 @@ Absolute Duo:
 
 11/10/2017
 
+Absolute Duo:
+
 14:25 - 14:48 07
 14:49 - 15:15 08
 16:57 - 17:22 09
 
 12/10/2017
+
+Absolute Duo:
 
 21:50 - 22:13 10
 22:13 - 22:38 11
@@ -1529,7 +1608,8 @@ Absolute Duo:
 
 13/10/2017
 
-Saijaku Muhai no Bahamut: [Rewatch]
+[REWATCH]
+Saijaku Muhai no Bahamut: 
 
 00:13 - 00:37 01
 00:40 - 01:03 02
@@ -1545,12 +1625,15 @@ Saijaku Muhai no Bahamut: [Rewatch]
 
 14/10/2017
 
+Saijaku Muhai no Bahamut: 
+
 00:24 - 00:46 10
 
 15:57 - 16:19 11
 16:20 - 16:44 12
 
-Gakusen Toshi Asterisk: [Rewatch] 
+[REWATCH]
+Gakusen Toshi Asterisk: 
 
 19:09 - 19:34 01
 19:34 - 19:59 02
@@ -1567,6 +1650,9 @@ Gakusen Toshi Asterisk: [Rewatch]
 // (Temporal Gap - Inicio Horario de verão)
 
 15/10/2017
+
+[REWATCH]
+Gakusen Toshi Asterisk: 
 
 01:20 - 01:43 12 //Horário sem verão: (00:20 - 00:43)
 
@@ -1598,6 +1684,8 @@ Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV):
 
 16/10/2017
 
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV):
+
 00:09 - 00:33 06
 00:33 - 00:59 07
 00:59 - 01:22 08
@@ -1614,10 +1702,14 @@ Fate/Zero:
 
 17/10/2017
 
+Fate/Zero: 
+
 23:54 - 00:16 04 {Leoi, Caio}
 00:19 - 00:41 05 {Leoi, Caio}
 
 18/10/2017
+
+Fate/Zero: 
 
 13:28 - 13:52 06 {Leoi, Caio}
 13:54 - 14:18 07 {Leoi, Caio}
@@ -1628,22 +1720,25 @@ Fate/Zero:
 
 19/10/2017
 
+Fate/Zero: 
+
 21:27 - 22:00 12 {Leoi, Caio}
 
 26/10/2017
 
-09:58 - 10:19 13 {Leoi, Caio}
-//(Interrompido - aula do ary) (+-21min) line#1457
+Fate/Zero: 
 
-Koi to Uso:
+09:58 - 10:19 -- {Leoi, Caio} //(Interrompido - aula do ary) (+-21min) line#1732
 
 27/10/2017
 
+Koi to Uso:
+
 21:42 - 22:06 01 {Leoi} //ele Dropou
 
-Gamers!:
-
 28/10/2017
+
+Gamers!:
 
 18:48 - 19:11 02
 19:12 - 19:36 03
@@ -1654,15 +1749,17 @@ Gamers!:
 
 29/10/2017
 
+Gamers!:
+
 19:14 - 19:37 08
 19:37 - 20:00 09
 20:01 - 20:25 10
 20:25 - 20:55 11
 
-Kakegurui: {Leoi}
+Kakegurui: 
 
-21:20 - 21:45 01
-23:20 - 23:44 02
+21:20 - 21:45 01 {Leoi}
+23:20 - 23:44 02 {Leoi}
 
 30/10/2017
 
@@ -1676,17 +1773,21 @@ Hajimete no Gal:
 
 20:21 - 20:45 06
 
-Kakegurui: {Leoi}
+Kakegurui: 
 
-22:39 - 23:01 03
+22:39 - 23:01 03 {Leoi}
 
 31/10/2017
 
-22:14 - 22:39 04
+Kakegurui: 
+
+22:14 - 22:39 04 {Leoi}
 
 02/11/2017
 
-16:40 - 17:04 05
+Kakegurui: 
+
+16:40 - 17:04 05 {Leoi}
 
 03/11/2017
 
@@ -1695,9 +1796,9 @@ Rick and Morty S1: //(Anime...)
 
 02:32 - 02:54 01
 
-Kakegurui: {Leoi}
+Kakegurui: 
 
-20:41 - 21:04 06
+20:41 - 21:04 06 {Leoi}
 
 08/11/2017
 
@@ -1731,9 +1832,9 @@ Koi to Uso:
 
 10/11/2017
 
-Kakegurui: {Leoi}
+Kakegurui:
 
-00:17 - 00:41 07
+00:17 - 00:41 07 {Leoi}
 
 11/11/2017
 
@@ -1754,10 +1855,10 @@ Blend S:
 16:01 - 16:23 01
 16:24 - 16:46 02
 
+12/11/2017
+
 [NOT-ANIME]
 Stranger Things: //(Era pra ser uma lista de animes)
-
-12/11/2017
 
 04:44 - 05:33 01
 09:40 - 10:33 02
@@ -1768,10 +1869,10 @@ Stranger Things: //(Era pra ser uma lista de animes)
 00:22 - 01:02 07
 01:02 - 01:55 08
 
+13/11/2017
+
 [NOT-ANIME]
 Stranger Things 2:
-
-13/11/2017
 
 20:39 - 21:27 01
 21:28 - 22:22 02
@@ -1785,10 +1886,10 @@ Stranger Things 2:
 
 18/11/2017
 
-Kakegurui: {Leoi}
+Kakegurui:
 
-12:42 - 13:07 08
-13:09 - 13:34 09
+12:42 - 13:07 08 {Leoi}
+13:09 - 13:34 09 {Leoi}
 
 Blend S:
 
@@ -1798,16 +1899,18 @@ Blend S:
 
 20/11/2017
 
+Blend S:
+
 00:37 - 01:00 06
 01:00 - 01:22 07
 
 20/11/2017
 
-Kakegurui: {Leoi}
+Kakegurui:
 
-17:04 - 17:27 10
-17:28 - 17:51 11
-18:00 - 18:25 12
+17:04 - 17:27 10 {Leoi}
+17:28 - 17:51 11 {Leoi}
+18:00 - 18:25 12 {Leoi}
 
 26/11/2017
 
@@ -1849,10 +1952,16 @@ Rick and Morty S2:
 
 05/12/2017
 
+[NOT-ANIME]
+Rick and Morty S2:
+
 00:08 - 00:32 05
 00:33 - 00:56 06
 
 06/12/2017
+
+[NOT-ANIME]
+Rick and Morty S2:
 
 22:17 - 22:40 07
 22:41 - 23:02 08
@@ -1865,6 +1974,9 @@ Rick and Morty S3:
 23:54 - 00:19 01
 
 07/12/2017
+
+[NOT-ANIME]
+Rick and Morty S3:
 
 02:10 - 02:36 02
 12:30 - 13:01 03
@@ -1887,9 +1999,9 @@ Inuyashiki:
 23:19 - 23:41 07
 23:57 - 00:18 08
 
-Naruto Shippuuden:
-
 10/12/2017
+
+Naruto Shippuuden:
 
 02:39 - 03:00 155
 03:02 - 03:22 156
@@ -1897,22 +2009,22 @@ Naruto Shippuuden:
 03:47 - 04:01 -- //(Continuar em 08:00)
 
 [NOT-ANIME]
-Dark: {Caorti} //(Série)
+Dark:  //(Série)
 
-19:48 - 20:37 01
-20:37 - 21:19 02
-21:51 - 22:34 03
-
-Naruto Shippuuden (Gary):
+19:48 - 20:37 01 {Caorti}
+20:37 - 21:19 02 {Caorti}
+21:51 - 22:34 03 {Caorti}
 
 11/12/2017
 
-02:08 - 02:22 158 //Continuando
-02:23 - 02:44 159
-02:45 - 03:05 160
-03:06 - 03:27 161
-03:27 - 03:49 162
-03:51 - 04:12 163
+Naruto Shippuuden:
+
+02:08 - 02:22 158 {Gary} //Continuando
+02:23 - 02:44 159 {Gary}
+02:45 - 03:05 160 {Gary}
+03:06 - 03:27 161 {Gary}
+03:27 - 03:49 162 {Gary}
+03:51 - 04:12 163 {Gary}
 
 12/12/2017
 
@@ -1942,24 +2054,25 @@ Gravity Falls:
 05:22 - 05:45 02
 
 [NOT-ANIME]
-Dark: {Caorti} //(Netflix) (Caorti)
+Dark:  //(Netflix) (Caorti)
 
-14:26 - 15:10 04
+14:26 - 15:10 04 {Caorti}
 
 [NOT-ANIME]
-Gravity Falls: {Caorti, Gary, Luiz, Jair}
+Gravity Falls: 
 
-22:27 - 22:47 01
-22:48 - 23:10 02
+//FIXME: Order violation (2021): rewatch?
+22:27 - 22:47 01 {Caorti, Gary, Luiz, Jair}
+22:48 - 23:10 02 {Caorti, Gary, Luiz, Jair}
 
 14/12/2017
 
 [NOT-ANIME]
-Dark: {Caorti}
+Dark: 
 
-22:30 - 23:12 05
-23:15 - 00:03 06
-00:03 - 00:51 07
+22:30 - 23:12 05 {Caorti}
+23:15 - 00:03 06 {Caorti}
+00:03 - 00:51 07 {Caorti}
 
 16/12/2017
 
@@ -1980,21 +2093,21 @@ Naruto Shippuuden:
 17/12/2017
 
 [NOT-ANIME]
-Dark: {Caorti}
+Dark:
 
-19:54 - 20:42 08
-20:42 - 21:35 09
-22:40 - 23:34 10
+19:54 - 20:42 08 {Caorti}
+20:42 - 21:35 09 {Caorti}
+22:40 - 23:34 10 {Caorti}
 
 18/12/2017
 
-Gravity Falls: {Caorti}
+Gravity Falls: 
 
-00:35 - 00:57 03
+00:35 - 00:57 03 {Caorti}
 
-Death Billiards: {Leoi}
+Death Billiards: 
 
-01:53 - 02:18 01
+01:53 - 02:18 01 {Leoi}
 
 Hyouka:
 
@@ -2002,6 +2115,8 @@ Hyouka:
 21:41 - 22:11 05
 
 19/12/2017
+
+Hyouka:
 
 03:08 - 03:33 06
 03:33 - 03:58 07
@@ -2018,10 +2133,10 @@ Haiyore! Nyaruko-San:
 
 21/12/2017
 
-Death Parade: {Leoi}
+Death Parade:
 
-03:30 - 03:52 01
-03:54 - 04:15 02
+03:30 - 03:52 01 {Leoi}
+03:54 - 04:15 02 {Leoi}
 
 Trinity Seven:
 
@@ -2059,6 +2174,7 @@ Trinity Seven:
 00:28 - 00:51 10
 00:51 - 01:14 11
 01:15 - 01:38 12
+//FIXME: search watched OVA
 02:19 - 02:47 OVA01
 
 Trinity Seven Movie 1: Eternity Library to Alchemic Girl:
@@ -2084,9 +2200,10 @@ FullMetal Alchemist (Manga vol.1):
 [SCRIPT-DANGER]
 04:47 - 05:11 p.139 - fim (Cap. 4)
 
-27/12/2017 (Felipe Pai aniversario)
+27/12/2017 //(Felipe Pai aniversario)
 
-Erased (Netflix Live Action)
+[NOT-ANIME]
+Erased (Netflix Live Action):
 
 02:50 - 03:16 01
 03:17 - 03:41 02
@@ -2108,10 +2225,10 @@ Busou Shoujo Machiavelism:
 
 29/12/2017
 
-Toaru Kagaku no Railgun: {Caio} //(Caio-kun)
+Toaru Kagaku no Railgun: //(Caio-kun)
 
-02:09 - 02:31 11
-03:01 - 03:24 12
+02:09 - 02:31 11 {Caio} 
+03:01 - 03:24 12 {Caio} 
 
 IS: Infinite Stratos:
 
@@ -2119,6 +2236,8 @@ IS: Infinite Stratos:
 04:25 - 04:47 02
 
 30/12/2017
+
+IS: Infinite Stratos:
 
 03:36 - 03:59 03
 
@@ -2145,6 +2264,10 @@ Supergirl: //(Netflix com Marfint) [Dropado nota 6 ou -] [sim, comecei do 13 mes
 17:55 - 18:42 16
 
 01/01/2018
+
+[NOT-ANIME]
+Supergirl: 
+
 
 02:00 - 02:48 17
 02:48 - 03:30 18
@@ -2183,16 +2306,16 @@ Boku no Kanojo ga Majimesugiru Sho-bitch na Ken:
 10/01/2018
 
 [NOT-ANIME]
-The End of The Fucking World: {Caorti, Luiz}
+The End of The Fucking World: 
 
-23:41 - 00:00 01
-00:00 - 00:21 02
-00:22 - 00:43 03
-00:43 - 01:04 04
-01:05 - 01:25 05
-01:28 - 01:49 06
-01:50 - 02:11 07
-02:11 - 02:30 08
+23:41 - 00:00 01 {Caorti, Luiz}
+00:00 - 00:21 02 {Caorti, Luiz}
+00:22 - 00:43 03 {Caorti, Luiz}
+00:43 - 01:04 04 {Caorti, Luiz}
+01:05 - 01:25 05 {Caorti, Luiz}
+01:28 - 01:49 06 {Caorti, Luiz}
+01:50 - 02:11 07 {Caorti, Luiz}
+02:11 - 02:30 08 {Caorti, Luiz}
 
 12/01/2018
 
@@ -2211,10 +2334,11 @@ Boku no Kanojo ga Majimesugiru Sho-bitch na Ken:
 
 14/01/2018
 
-Friends: {Caorti, Luiz}
+[NOT-ANIME]
+Friends: 
 
-02:22 - 02:45 01
-02:47 - 03:10 02
+02:22 - 02:45 01 {Caorti, Luiz}
+02:47 - 03:10 02 {Caorti, Luiz}
 
 15/01/2018
 
@@ -2237,11 +2361,15 @@ Hyouka:
 
 18/01/2018
 
+Hyouka:
+
 02:54 - 03:19 16
 03:19 - 03:49 17
 03:50 - 04:17 18
 
 19/01/2018
+
+Hyouka:
 
 00:29 - 00:56 19
 00:57 - 01:21 20
@@ -2254,7 +2382,7 @@ Hyouka: Motsubeki Mono wa:
 
 Fate/Zero: //Assisti sozinho
 
-03:14 - 03:20 13 //(21-26min) continuando do ary: line#1457
+03:14 - 03:20 13 //(21-26min) continuando do ary: line#1732
 
 Fate/Zero: Onegai! Einzbern Soudanshitsu:
 
@@ -2268,6 +2396,8 @@ Fate/Zero 2nd Season:
 19:00 - 19:24 02
 
 20/01/2018
+
+Fate/Zero 2nd Season:
 
 01:59 - 02:23 03
 02:24 - 02:48 04
@@ -2298,6 +2428,8 @@ Fate/stay night:
 23:42 - 00:06 11
 
 22/01/2018
+
+Fate/stay night:
 
 00:06 - 00:29 12
 00:30 - 00:52 13
@@ -2338,6 +2470,8 @@ Fate/stay night: Unlimited Blade Works 2nd:
 
 23/01/2018
 
+Fate/stay night: Unlimited Blade Works 2nd:
+
 00:13 - 00:39 04
 00:39 - 01:02 05
 01:03 - 01:26 06
@@ -2351,19 +2485,23 @@ Fate/stay night: Unlimited Blade Works 2nd:
 
 26/01/2018
 
-Fate/Zero 2nd Season: {Leoi} [Rewatch]
+[Rewatch]
+Fate/Zero 2nd Season:
 
-04:15 - 04:39 07
-04:42 - 05:03 08
+04:15 - 04:39 07 {Leoi}
+04:42 - 05:03 08 {Leoi}
 
 01/02/2018
 
 [NOT-ANIME]
-La Casa de Papel: {Caorti} //Netflix
+La Casa de Papel: //Netflix
 
-23:11 - 23:57 01
+23:11 - 23:57 01 {Caorti}
 
 02/02/2018
+
+[NOT-ANIME]
+La Casa de Papel: //Netflix
 
 00:00 - 00:40 02
 00:41 - 01:31 03
@@ -2379,17 +2517,17 @@ La Casa de Papel: {Caorti} //Netflix
 03/02/2018
 
 [NOT-ANIME]
-Donnie Darko: {Caorti, Luiz, Vinicius Russo}
+Donnie Darko: 
 
-20:30 - 22:30 01
+20:30 - 22:30 01 {Caorti, Luiz, Vinicius Russo}
 
 04/02/2018
 
 [NOT-ANIME]
-La Casa de Papel: {Caorti}
+La Casa de Papel: 
 
-17:20 - 18:06 12
-18:06 - 19:01 13
+17:20 - 18:06 12 {Caorti}
+18:06 - 19:01 13 {Caorti}
 
 Death Parade: //Continuando sozinho
 
@@ -2432,6 +2570,8 @@ Hunter x Hunter (2011):
 
 16/02/2018
 
+Hunter x Hunter (2011):
+
 17:32 - 17:54 11
 17:55 - 18:17 12
 18:22 - 18:46 13 //(Recap)
@@ -2456,6 +2596,8 @@ Hunter x Hunter:
 19:19 - 19:42 26 //(Recap)
 
 18/02/2018
+
+Hunter x Hunter:
 
 01:09 - 01:31 27 {Vinicius Russo}
 01:32 - 01:54 28 {Vinicius Russo}
@@ -2495,9 +2637,13 @@ Hunter x Hunter (2011):
 
 21/02/2018
 
+Hunter x Hunter (2011):
+
 22:44 - 23:07 41
 
 24/02/2018
+
+Hunter x Hunter (2011):
 
 22:28 - 22:50 43
 22:53 - 23:14 42
@@ -2579,9 +2725,13 @@ Hunter x Hunter (2011):
 
 30/03/2018
 
+Hunter x Hunter (2011):
+
 11:44 - 12:08 49
 
 31/03/2018
+
+Hunter x Hunter (2011):
 
 00:20 - 00:42 50
 00:42 - 01:05 51
@@ -2602,6 +2752,8 @@ Hunter x Hunter (2011):
 02:56 - 03:19 65
 
 01/04/2018
+
+Hunter x Hunter (2011):
 
 13:08 - 13:33 66
 13:33 - 13:56 67
@@ -2647,6 +2799,8 @@ Hunter x Hunter (2011):
 
 08/04/2018
 
+Hunter x Hunter (2011):
+
 18:34 - 18:57 94
 18:57 - 19:20 95
 19:20 - 19:42 96
@@ -2656,6 +2810,8 @@ Hunter x Hunter (2011):
 20:51 - 21:44 100
 
 10/04/2018
+
+Hunter x Hunter (2011):
 
 12:40 - 13:02 101
 13:02 - 13:25 102
@@ -2677,6 +2833,8 @@ Hunter x Hunter (2011):
 
 13/04/2018
 
+Hunter x Hunter (2011):
+
 00:29 - 00:51 118
 00:51 - 01:13 119
 01:13 - 01:36 120
@@ -2692,15 +2850,18 @@ Hunter x Hunter (2011):
 04:57 - 05:18 130
 
 [NOT-ANIME]
-La Casa de Papel 2: {Caorti}
+La Casa de Papel 2: 
 
-22:06 - 22:09 00 //Resumo (00 foi inventado por mim por causa do syntax highlighting)
-22:10 - 22:52 01
-22:53 - 23:34 02
-23:44 - 00:27 03
-00:28 - 01:18 04
+22:06 - 22:09 00 {Caorti} //Resumo (00 foi inventado por mim por causa do syntax highlighting)
+22:10 - 22:52 01 {Caorti}
+22:53 - 23:34 02 {Caorti}
+23:44 - 00:27 03 {Caorti}
+00:28 - 01:18 04 {Caorti}
 
 14/04/2018
+
+[NOT-ANIME]
+La Casa de Papel 2: 
 
 20:18 - 21:00 05
 21:15 - 22:00 06
@@ -2708,9 +2869,9 @@ La Casa de Papel 2: {Caorti}
 22:44 - 23:32 08
 23:35 - 00:19 09
 
-Hunter x Hunter (2011):
-
 28/04/2018
+
+Hunter x Hunter (2011):
 
 22:36 - 22:59 131
 23:16 - 23:38 132
@@ -2726,6 +2887,8 @@ Hunter x Hunter (2011):
 03:28 - 03:51 142
 
 29/04/2018
+
+Hunter x Hunter (2011):
 
 17:29 - 17:53 143
 17:54 - 18:17 144
@@ -2770,12 +2933,16 @@ Nanatsu no Taizai: Imashime no Fukkatsu:
 
 02/06/2018
 
+Nanatsu no Taizai: Imashime no Fukkatsu:
+
 01:54 - 02:14 16
 02:23 - 02:45 17
 02:45 - 03:08 18
 03:09 - 03:30 19
 
 03/06/2018
+
+Nanatsu no Taizai: Imashime no Fukkatsu:
 
 02:09 - 02:32 20
 
@@ -2790,6 +2957,8 @@ Darling in The FranXX:
 23:52 - 00:15 17
 
 04/06/2018
+
+Darling in The FranXX:
 
 00:16 - 00:39 18
 00:40 - 01:03 19
@@ -2836,6 +3005,8 @@ Boku no Hero Academia 3:
 
 07/10/2018
 
+Boku no Hero Academia 3:
+
 00:01 - 00:22 23
 00:22 - 00:44 24
 00:44 - 01:06 25
@@ -2871,9 +3042,9 @@ Seitokai Yakuindomo* OVA:
 10:28 - 10:51 07
 
 //Dia que o marcos veio falando que perdeu a memória
-Kyoukai no Kanata: Shinonome: {Marcos Antônio Gomes Júnior}
+Kyoukai no Kanata: Shinonome: 
 
-22:06 - 22:28 01 //(OVA00 na pasta)
+22:06 - 22:28 01 {Marcos Antônio Gomes Júnior} //(OVA00 na pasta)
 
 Kyoukai no Kanata:
 
@@ -2887,6 +3058,8 @@ Kyoukai no Kanata:
 01:08 - 01:28 08 {Marcos Antônio Gomes Júnior} //(Marcos dormiu)
 
 14/10/2018
+
+Kyoukai no Kanata:
 
 11:50 - 12:12 08 {Marcos Antônio Gomes Júnior} [Rewatch]
 12:12 - 12:33 09 {Marcos Antônio Gomes Júnior}
@@ -2907,6 +3080,8 @@ Citrus:
 19:56 - 20:07 07
 
 15/10/2018
+
+Citrus:
 
 04:20 - 04:42 08
 04:43 - 05:07 09
@@ -2943,7 +3118,7 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 Darling in the FranXX:
 
-[EPISODE-SKIP] //(pulei o 19.5.... sorry)
+[EPISODE-SKIP(19.5)] //(pulei o 19.5.... sorry)
 
 18:11 - 18:35 20
 18:35 - 19:00 21
@@ -3015,9 +3190,13 @@ Shokugeki no Souma: San no Sara: //(com Jair até 20,5)
 
 26/10/2018
 
+Shokugeki no Souma: San no Sara:
+
 00:20 - 00:40 16 {Jair} 
 
 27/10/2018
+
+Shokugeki no Souma: San no Sara:
 
 22:27 - 22:50 17 {Jair}
 22:50 - 23:14 18 {Jair}
@@ -3087,6 +3266,8 @@ IS: Infinite Stratos:
 
 06/11/2018
 
+IS: Infinite Stratos:
+
 22:01 - 22:24 10
 22:24 - 22:46 11
 22:47 - 23:09 12
@@ -3114,6 +3295,8 @@ Fairy Tail: Final Series:
 
 11/11/2018
 //(Sozinho)
+
+Fairy Tail: Final Series:
 
 [UNSAFE-ORDER]
 23:34 - 23:56 05 //(Sim, vi o 6 antes :'( )
@@ -3144,9 +3327,9 @@ Sword Art Online: Alicization:
 17/11/2018
 
 [NOT-ANIME]
-Albergue: {Jair, Caorti, Marfint} //Netflix 
+Albergue:  //Netflix 
 
-01:50 - 03:20 01
+01:50 - 03:20 01 {Jair, Caorti, Marfint}
 
 Sword Art Online: Alicization:
 
@@ -3302,16 +3485,12 @@ Fairy Tail: Final Series:
 
 Goblin Slayer:
 
-{Igor}
-
-21:34 - 21:57 10
-22:00 - 22:15 10.5
+21:34 - 21:57 10 {Igor}
+22:00 - 22:15 10.5 {Igor}
 
 Tensei Shitara Slime Datta Ken:
 
-{Igor}
-
-22:20 - 22:43 12
+22:20 - 22:43 12 {Igor}
 
 20/12/2018
 
@@ -3327,11 +3506,9 @@ Sword Art Online: Alicization:
 
 23/12/2018
 
-{Gary}
-
 Fairy Tail: Final Series:
 
-01:28 - 01:51 12
+01:28 - 01:51 12 {Gary}
 
 25/12/2018 //(Pior natal de todos, tirando a parte dos meus primos por parte de mãe estarem crescidos)
 
@@ -3349,10 +3526,8 @@ Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai:
 
 Goblin Slayer:
 
-{Igor}
-
-14:27 - 14:49 11
-14:51 - 15:15 12
+14:27 - 14:49 11 {Igor}
+14:51 - 15:15 12 {Igor}
 
 //HAPPY NEW YEAR 2019 :)
 
@@ -3403,7 +3578,8 @@ Danshi Koukousei no Nichijou Specials:
 
 11/01/2019
 
-Bakemonogatari: [Rewatch]
+[Rewatch]
+Bakemonogatari: 
 
 15:47 - 16:12 01
 16:17 - 16:43 02
@@ -3420,6 +3596,9 @@ Devilman Crybaby:
 
 12/01/2019 //(Passeio de escuna)
 
+[Rewatch]
+Bakemonogatari: 
+
 07:44 - 08:07 05
 08:07 - 08:28 06
 08:28 - 08:51 07
@@ -3427,7 +3606,8 @@ Devilman Crybaby:
 13:47 - 14:08 09
 14:10 - 14:31 10
 
-Bakemonogatari: [Rewatch]
+[Rewatch]
+Bakemonogatari: 
 
 22:56 - 23:22 06
 23:23 - 23:48 07
@@ -3443,7 +3623,8 @@ Fairy Tail: Final Series:
 
 01:15 - 01:37 14
 
-Bakemonogatari: [Rewatch]
+[REWATCH]
+Bakemonogatari: 
 
 02:10 - 02:35 09
 02:36 - 03:01 10
@@ -3461,7 +3642,8 @@ Asobi Asobase:
 
 22:20 - 22:48 01
 
-Bakemonogatari: [Rewatch]
+[REWATCH]
+Bakemonogatari: 
 
 22:56 - 23:21 12
 23:22 - 23:48 13
@@ -3504,6 +3686,8 @@ Saiki Kusuo no Psi-nan:
 
 15/01/2019
 
+Saiki Kusuo no Psi-nan:
+
 22:05 - 22:29 22
 22:30 - 22:50 23
 22:51 - 23:13 24
@@ -3538,6 +3722,8 @@ Saiki Kusuo no Psi-nan 2:
 23:38 - 00:00 21
 
 17/01/2019
+
+Saiki Kusuo no Psi-nan 2:
 
 00:20 - 00:46 22
 00:46 - 01:08 23
@@ -3606,6 +3792,9 @@ Lucifer: //(Netflix)
 
 20/01/2019
 
+[NOT-ANIME]
+Lucifer: //(Netflix)
+
 00:39 - 01:20 02
 01:21 - 02:02 03
 02:02 - 02:43 04
@@ -3617,6 +3806,9 @@ Lucifer: //(Netflix)
 23:39 - 00:22 10
 
 21/01/2019
+
+[NOT-ANIME]
+Lucifer: //(Netflix)
 
 00:22 - 01:04 11
 01:05 - 01:47 12
@@ -3640,6 +3832,9 @@ Lucifer II: //(Netflix)
 23:48 - 00:30 13
 
 22/01/2019
+
+[NOT-ANIME]
+Lucifer II: //(Netflix)
 
 00:31 - 01:13 14
 01:17 - 02:00 15
@@ -3672,6 +3867,9 @@ Lucifer III:
 
 23/01/2019
 
+[NOT-ANIME]
+Lucifer III: //(Netflix)
+
 13:25 - 14:27 12
 14:27 - 15:09 13
 15:09 - 15:52 14
@@ -3687,6 +3885,9 @@ Lucifer III:
 
 24/01/2019 //(Fiz escolha sisu e passei na FUVEST!!)
 
+[NOT-ANIME]
+Lucifer III: //(Netflix)
+
 00:42 - 01:25 24
 01:25 - 02:24 25
 02:24 - 03:07 26
@@ -3701,6 +3902,7 @@ Yakusoku no Neverland:
 
 25/01/2019
 
+[REWATCH]
 Nisemonogatari:
 
 00:15 - 00:42 01
@@ -3730,9 +3932,10 @@ Yakusoku no Neverland:
 
 02/02/2019
 
-Kaguya-sama wa Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
 
 21:01 - 21:27 04
+[UNSAFE-ORDER]
 21:27 - 21:52 03
 
 Sword Art Online: Alicization:
@@ -3776,7 +3979,7 @@ Sword Art Online: Alicization:
 
 00:53 - 01:16 18
 
-Kaguya-sama wa Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
 
 01:19 - 01:43 05
 
@@ -3818,7 +4021,7 @@ Boogiepop wa Warawanai:
 
 21/02/2019
 
-Kaguya-sama wa Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
 
 14:10 - 14:34 06
 
@@ -3830,15 +4033,13 @@ Love Live! 2:
 
 Watamote:
 
-{Jesus, Guerra}
-
-22:50 - 23:12 01
-23:15 - 23:37 02
-23:38 - 00:00 03
+22:50 - 23:12 01 {Jesus, Guerra}
+23:15 - 23:37 02 {Jesus, Guerra}
+23:38 - 00:00 03 {Jesus, Guerra}
 
 24/02/2019
 
-Kaguya-sama wa Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
 
 15:44 - 16:09 07
 
@@ -3886,6 +4087,8 @@ Tate no Yuusha no Nariagari:
 23:36 - 23:59 07
 
 04/03/2019
+
+Tate no Yuusha no Nariagari:
 
 00:43 - 01:05 08
 
@@ -3941,12 +4144,18 @@ Mr. Robot:
 
 07/03/2019
 
+[NOT-ANIME]
+Mr. Robot:
+
 00:02 - 00:47 06
 
 21:48 - 22:35 07
 22:38 - 23:24 08
 
 08/03/2019
+
+[NOT-ANIME]
+Mr. Robot:
 
 12:48 - 13:41 09
 14:02 - 14:56 10
@@ -4081,17 +4290,16 @@ Yakusoku no Neverland:
 
 24/03/2019
 
-Prison School: [Rewatch]
+[REWATCH]
+Prison School: 
 
-{Vitinho}
-
-00:18 - 00:40 01
-00:40 - 01:03 02
-01:03 - 01:26 03
-01:27 - 01:49 04
-01:49 - 02:13 05
-02:14 - 02:36 06
-02:42 - 03:04 07
+00:18 - 00:40 01 {Vitinho}
+00:40 - 01:03 02 {Vitinho}
+01:03 - 01:26 03 {Vitinho}
+01:27 - 01:49 04 {Vitinho}
+01:49 - 02:13 05 {Vitinho}
+02:14 - 02:36 06 {Vitinho}
+02:42 - 03:04 07 {Vitinho}
 
 Kaguya-sama wa Kokurasetai:
 
@@ -4245,17 +4453,15 @@ Fairy Gone:
 20/04/2019
 
 [NOT-ANIME]
+[REWATCH]
 Game of Thrones: //(Já havia assistido antes mais não lembro)
 
-{Luiz, Vitinho, Gary}
+02:05 - 02:27 01 {Luiz, Vitinho, Gary} //(interrompido) sem sentido
 
-02:05 - 02:27 01 //(interrompido) sem sentido
-
+[REWATCH]
 Darling in The FranXX:
 
-{Luiz, Vitinho, Gary}
-
-02:32 - 02:58 01 //sem sentido
+02:32 - 02:58 01 {Luiz, Vitinho, Gary} //sem sentido
 
 Kimetsu no Yaiba:
 
@@ -4265,9 +4471,7 @@ Kimetsu no Yaiba:
 
 Fairy Tail: Final Series:
 
-{Gary}
-
-02:18 - 02:41 28
+02:18 - 02:41 28 {Gary}
 
 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: 
 //No onibus para sanca
@@ -4447,9 +4651,13 @@ Suzumiya Haruhi no Yuutsu (2009):
 
 07/05/2019
 
+Suzumiya Haruhi no Yuutsu (2009):
+
 22:07 - 22:33 06 //Ep 16
 
 10/05/2019
+
+Suzumiya Haruhi no Yuutsu (2009):
 
 20:17 - 20:45 07 //Ep 17
 20:46 - 21:10 08 //Ep 18
@@ -4480,7 +4688,8 @@ Steins;Gate 0:
 16:53 - 17:18 06
 17:18 - 17:41 07
 
-Steins;Gate: [Rewatch]
+[REWATCH]
+Steins;Gate:
 
 18:16 - 18:40 01
 18:41 - 19:04 02
@@ -4505,7 +4714,8 @@ Steins;Gate: [Rewatch]
 
 13/05/2019
 
-Steins;Gate: [Rewatch]
+[REWATCH]
+Steins;Gate: 
 
 09:55 - 10:18 21
 10:18 - 10:40 22
@@ -4711,6 +4921,7 @@ Suzumiya Haruhi no Soushitsu:
 //Agora vai cagar tudo, fora de ordem. OBS: (2006)
 Suzumiya Haruhi no Yuutsu: 
 
+[UNSAFE-ORDER]
 20:57 - 21:25 02 //Ep 01: global = 01
 21:26 - 21:50 03 //Ep 02: global = 02
 21:51 - 22:19 05 //Ep 03: global = 03
@@ -4745,6 +4956,7 @@ Isekai Quartet:
 
 Suzumiya Haruhi no Yuutsu: 
 
+[UNSAFE-ORDER]
 23:47 - 00:10 06 //Ep 09: global = 10
 
 12/06/2019
@@ -4761,6 +4973,7 @@ Kenja no Mago:
 
 Suzumiya Haruhi no Yuutsu:
 
+[UNSAFE-ORDER]
 20:23 - 20:47 08 //Ep 10: global = 11
 20:50 - 21:19 01 //Ep 11: global = 25
 21:22 - 21:47 12 //Ep 12: global = 26
@@ -4790,12 +5003,10 @@ Kimetsu no Yaiba:
 
 Tokyo Ghoul: Re:
 
-{Guerra}
-
-15:58 - 16:19 01
-16:27 - 16:48 02
-16:52 - 17:15 03
-17:15 - 17:37 04
+15:58 - 16:19 01 {Guerra}
+16:27 - 16:48 02 {Guerra}
+16:52 - 17:15 03 {Guerra}
+17:15 - 17:37 04 {Guerra}
 
 Mahou Shoujo Site:
 
@@ -4824,6 +5035,8 @@ Tokyo Ghoul √A:
 16:04 - 16:28 06
 
 18/06/2019
+
+Tokyo Ghoul √A:
 
 11:07 - 11:30 07
 11:30 - 11:54 08
@@ -4869,12 +5082,14 @@ Tate no Yuusha no Nariagari:
 
 20/06/2019
 
+[NOT-ANIME]
 Mr Robot 2:
 
 10:50 - 11:31 01
 
 23/06/2019 
 
+[NOT-ANIME]
 Mr Robot 2:
 
 22:46 - 23:27 02
@@ -4883,10 +5098,8 @@ Mr Robot 2:
 
 Log Horizon:
 
-{Dalton}
-
-23:30 - 23:56 01
-00:01 - 00:25 02
+23:30 - 23:56 01 {Dalton}
+00:01 - 00:25 02 {Dalton}
 
 29/09/2019
 
@@ -4944,6 +5157,8 @@ Blood Lad:
 
 02/07/2019
 
+Blood Lad:
+
 18:08 - 18:31 08 
 19:39 - 20:04 09
 20:04 - 20:29 10
@@ -4991,18 +5206,14 @@ B: The Beginning:
 
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II:
 
-{Luiz, Gary}
-
-01:51 - 02:14 01
+01:51 - 02:14 01 {Luiz, Gary}
 
 18/07/2019
 
 Dumbbell Nan Kilo Moteru?:
 
-{Gary}
-
-02:04 - 02:25 01
-02:28 - 02:54 02
+02:04 - 02:25 01 {Gary}
+02:28 - 02:54 02 {Gary}
 
 19/07/2019
 
@@ -5034,21 +5245,17 @@ Dr. Stone:
 [NOT-ANIME]
 La Casa de Papel 3:
 
-{Caorti}
-
-16:09 - 16:57 01
-17:13 - 17:52 02
+16:09 - 16:57 01 {Caorti}
+17:13 - 17:52 02 {Caorti}
 
 25/07/2019
 
 [NOT-ANIME]
 La Casa de Papel 3:
 
-{Caorti}
-
-01:04 - 01:51 03
-01:51 - 02:33 04
-02:33 - 03:21 05
+01:04 - 01:51 03 {Caorti}
+01:51 - 02:33 04 {Caorti}
+02:33 - 03:21 05 {Caorti}
 
 26/07/2019
 
@@ -5059,20 +5266,16 @@ Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow:
 [NOT-ANIME]
 La Casa de Papel 3:
 
-{Caorti}
-
-13:43 - 14:27 06
-14:32 - 15:14 07
-15:18 - 16:14 08
+13:43 - 14:27 06 {Caorti}
+14:32 - 15:14 07 {Caorti}
+15:18 - 16:14 08 {Caorti}
 
 27/07/2019
 
 Dungeon ni Deai no Motomeru no wa Machigatteiru Darou ka II:
 
-{Luiz, Gary}
-
-03:24 - 03:46 02
-03:48 - 04:10 03
+03:24 - 03:46 02 {Luiz, Gary}
+03:48 - 04:10 03 {Luiz, Gary}
 
 Dr. Stone:
 
@@ -5204,11 +5407,9 @@ Kimetsu no Yaiba:
 
 Neon Genesis Evangelion:
 
-{Vinicius Russo}
-
-20:22 - 20:46 01
-20:46 - 21:12 02
-21:38 - 22:04 03
+20:22 - 20:46 01 {Vinicius Russo}
+20:46 - 21:12 02 {Vinicius Russo}
+21:38 - 22:04 03 {Vinicius Russo}
 
 Fairy Tail: Final Series:
 
@@ -5232,12 +5433,18 @@ Big Mouth 2:
 
 13/08/2019
 
+[NOT-ANIME]
+Big Mouth 2:
+
 12:21 - 12:49 02
 16:19 - 16:46 03
 16:46 - 17:11 04
 22:31 - 22:58 05
 
 14/08/2019
+
+[NOT-ANIME]
+Big Mouth 2:
 
 14:20 - 14:47 06
 14:47 - 15:13 07
@@ -5426,7 +5633,7 @@ Enen no Shouboutai:
 
 14:52 - 15:16 09
 
-08/09/2019:
+08/09/2019
 
 Fate/stay night: Heaven’s Feel I. Presage Flower:
 
@@ -5825,6 +6032,8 @@ Princess Principal:
 
 02/11/2019
 
+Princess Principal:
+
 10:51 - 11:15 07
 11:15 - 11:40 08
 11:41 - 12:06 09
@@ -5892,6 +6101,7 @@ Assassins Pride:
 
 Suzumiya Haruhi no Yuutsu:
 
+[UNSAFE-ORDER]
 15:32 - 15:58 09 //global = 25
 
 Violet Evergarden:
@@ -6185,6 +6395,8 @@ One Piece:
 
 01/12/2019
 
+One Piece:
+
 00:12 - 00:34 81 {Lucas Romero}
 00:34 - 00:55 82 {Lucas Romero}
 00:56 - 01:16 83 {Lucas Romero}
@@ -6359,13 +6571,11 @@ Sword Art Online: Alicization - War of Underworld:
 
 23/12/2019
 
+[Rewatch]
 Kono Subarashii Sekai ni Shukufuku wo!:
 
-{Vitinho, Gary}
-[Rewatch]
-
-01:45 - 02:09 01
-02:10 - 02:31 02
+01:45 - 02:09 01 {Vitinho, Gary}
+02:10 - 02:31 02 {Vitinho, Gary}
 //Gary não gostou
 
 24/12/2019
@@ -6383,10 +6593,8 @@ Domestic na Kanojo:
 
 Enen no Shouboutai:
 
-{Gary}
-
-20:03 - 20:25 23
-20:26 - 20:47 24
+20:03 - 20:25 23 {Gary}
+20:26 - 20:47 24 {Gary}
 
 28/12/2019
 
@@ -6404,11 +6612,9 @@ Boku no Hero Academia 4th Season:
 
 Saiki Kusuo no Ψ-nan: Shidou-hen:
 
-{Henrique}
-
-00:33 - 00:54 01
-00:55 - 01:17 02
-01:18 - 01:38 03
+00:33 - 00:54 01 {Henrique}
+00:55 - 01:17 02 {Henrique}
+01:18 - 01:38 03 {Henrique}
 
 04/01/2020
 
@@ -6595,7 +6801,8 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.:
 
 02/02/2020
 
-No Game No Life: [Rewatch]
+[Rewatch]
+No Game No Life: 
 
 01:43 - 02:05 01 {Gary, Vitinho, Vinicius Russo}
 
@@ -6753,6 +6960,8 @@ Ao Haru Ride:
 23:43 - 00:06 04 {Lucas Romero}
 
 19/02/2020
+
+Ao Haru Ride:
 
 00:09 - 00:31 05 {Lucas Romero}
 00:42 - 01:04 06 {Lucas Romero}
@@ -7235,7 +7444,8 @@ Campos de Concentração Nazistas: //Documentário
 
 11:42 - 12:41 01 {Vitinho}
 
-Kimetsu no Yaiba: [REWATCH]
+[REWATCH]
+Kimetsu no Yaiba:
 
 13:52 - 14:13 01 {Luiz, Vitinho, Gary}
 14:24 - 14:46 02 {Luiz, Vitinho, Gary}
@@ -7445,7 +7655,7 @@ Kami no Tou:
 
 One Piece:
 
-08:41 - 09:02 108
+08:41 - 09:02 108 {Lucas Romero}
 
 05/06/2020
 
@@ -7668,13 +7878,15 @@ Enen no Shouboutai: Ni no Shou:
 
 00:56 - 01:21 03
 
-Nisemonogatari: [Rewatch]
+[REWATCH]
+Nisemonogatari:
 
 01:49 - 02:14 03
 
 18/07/2020
 
-Nisemonogatari: [Rewatch]
+[REWATCH]
+Nisemonogatari:
 
 17:53 - 18:22 04
 18:46 - 19:11 05
@@ -7709,7 +7921,8 @@ The God of High School:
 
 00:27 - 00:50 03
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [Rewatch]
+[REWATCH]
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.:
 
 11:53 - 12:26 01
 
@@ -7776,7 +7989,8 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders:
 
 //Após Karen Bee (https://imgur.com/gallery/iXUyxam)
 //Koyomi Wind
-Koyomimonogatari: [Rewatch]
+[REWATCH]
+Koyomimonogatari:
 
 05:46 - 05:58 05
 
@@ -7795,7 +8009,8 @@ Goblin Slayer: Goblin's Crown:
 00:00 - 01:27 01 {Vinicius Russo}
 
 //Tsukihi Phoenix
-Nisemonogatari: [Rewatch]
+[REWATCH]
+Nisemonogatari:
 
 04:13 - 04:37 08
 05:40 - 06:08 09
@@ -8012,7 +8227,8 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders:
 
 //Atualizei o sublime-anime para reconhecer as flags, ex: REWATCH
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [REWATCH]
+[REWATCH]
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.: 
 
 19:45 - 20:08 03
 20:10 - 20:36 04
@@ -8206,3 +8422,2649 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season:
 18:29 - 18:51 01
 18:51 - 19:14 02
 19:15 - 19:37 03
+
+03/09/2020
+
+[勉強]
+Little Witch Academia:
+
+20:40 - 21:15 13
+
+04/09/2020
+
+[勉強]
+Little Witch Academia:
+
+16:58 - 17:54 14
+
+Kanojo, Okarishimasu:
+
+19:53 - 20:16 09
+
+05/09/2020
+
+Enen no Shouboutai: Ni no Shou:
+
+10:17 - 10:41 10
+
+Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set:
+
+10:45 - 11:53 01
+
+[勉強]
+Little Witch Academia:
+
+14:04 - 15:01 15
+
+07/09/2020
+
+[勉強]
+Little Witch Academia:
+
+15:30 - 16:48 16
+
+Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e:
+
+19:55 - 20:18 10
+
+The God of High School:
+
+20:51 - 21:12 09
+
+08/09/2020
+//Prova de estat
+
+[勉強]
+Little Witch Academia:
+
+19:25 - 20:08 17
+
+09/09/2020
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+13:24 - 13:52 10
+
+Deca-Dence:
+
+15:57 - 16:22 10
+
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season:
+
+16:24 - 16:47 04
+16:47 - 17:09 05
+17:09 - 17:30 06
+
+[勉強]
+Little Witch Academia:
+
+18:06 - 18:59 18
+
+10/09/2020
+
+[勉強]
+Little Witch Academia:
+
+22:03 - 22:20 -- //@04:16
+
+11/09/2020
+
+[勉強]
+Little Witch Academia:
+
+20:12 - 20:48 -- //@10:55
+
+Enen no Shouboutai: Ni no Shou:
+
+21:57 - 22:22 11
+
+Kanojo, Okarishimasu:
+
+22:22 - 22:47 10
+
+[勉強]
+Little Witch Academia:
+
+23:02 - 23:25 19
+
+12/09/2020
+
+[勉強]
+Little Witch Academia:
+
+09:48 - 10:31 20
+
+13/09/2020
+
+Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e:
+
+00:25 - 00:48 11
+
+The God of High School:
+
+00:50 - 01:12 10
+
+[勉強]
+Little Witch Academia:
+
+21:44 - 22:44 21
+22:44 - 23:29 22
+23:42 - 00:22 23
+
+14/09/2020
+
+The God of High School:
+
+20:00 - 20:22 11
+
+15/09/2020
+
+[勉強]
+Little Witch Academia:
+
+17:11 - 17:53 24
+
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season:
+
+22:13 - 22:39 07
+22:40 - 23:02 08
+23:02 - 23:25 09
+23:25 - 23:48 10
+23:48 - 00:12 11
+00:13 - 00:35 12
+00:37 - 00:58 13
+00:58 - 01:20 14
+01:22 - 01:43 15
+
+16/09/2020
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+19:10 - 19:37 11
+
+Deca-Dence:
+
+23:42 - 00:05 11
+
+17/09/2020
+
+[勉強]
+Little Witch Academia:
+
+01:10 - 02:10 25
+
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season:
+
+21:42 - 22:08 16
+22:17 - 22:41 17
+22:44 - 23:05 18
+23:06 - 23:28 19
+23:28 - 23:50 20
+23:50 - 00:14 21
+00:14 - 00:36 22
+00:37 - 01:02 23
+01:02 - 01:26 24
+
+18/09/2020
+
+[勉強]
+Kill la Kill:
+
+19:28 - 19:54 -- //Pausa para esfiha
+20:20 - 20:56 05
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+22:04 - 22:55 03
+
+20/09/2020
+
+[NOT-ANIME]
+Sim Senhor:
+
+01:39 - 03:16 01 {Lucas Romero}
+
+Code Geass: Fukkatsu no Lelouch:
+
+14:20 - 14:40 -- {Henrique} //Decidiram trabalhar na sala (dia do mesh tenda)
+16:04 - 17:41 01 {Henrique}
+
+21/09/2020
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+18:47 - 19:24 04
+
+22/09/2020
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+00:05 - 00:30 01
+00:31 - 00:56 02
+00:56 - 01:19 03	
+
+Kanojo, Okarishimasu:
+
+01:44 - 02:08 11
+
+Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e:
+
+02:09 - 02:33 12
+
+[SCRIPT-DANGER] //Ep isolado (dalton pediu pra ver)
+Dokyuu Hentai HxEros:
+
+02:33 - 02:54 11
+
+[勉強]
+Kill la Kill:
+
+16:08 - 17:14 06
+
+23/09/2020
+
+The God of High School:
+
+01:03 - 01:26 12
+
+Enen no Shouboutai: Ni no Shou:
+
+01:27 - 01:49 12
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+01:59 - 02:21 04
+02:21 - 02:46 05
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+11:46 - 12:13 12 {NearlyOnRed}
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+23:06 - 23:29 06
+
+25/09/2020
+
+Deca-Dence:
+
+01:45 - 02:09 12
+
+[勉強]
+Kill la Kill:
+
+04:28 - 04:41 -- //@ 04:11
+
+26/09/2020
+
+[勉強]
+Kill la Kill:
+
+16:52 - 18:08 07
+
+27/09/2020
+
+Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e:
+
+01:06 - 01:31 13
+
+Kanojo, Okarishimasu:
+
+01:35 - 02:02 12
+
+Enen no Shouboutai: Ni no Shou:
+
+02:12 - 02:35 13
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+02:41 - 03:04 07
+03:04 - 03:29 08
+03:29 - 03:52 09
+
+28/09/2020
+
+[勉強]
+Kill la Kill:
+
+12:23 - 13:06 -- //@19:15
+
+The God of High School:
+
+22:19 - 22:44 13
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+22:49 - 23:12 10
+23:12 - 23:35 11
+23:36 - 00:00 12
+
+29/09/2020
+
+[勉強]
+Kill la Kill:
+
+23:14 - 23:18 08
+23:18 - 23:48 -- //@17:47
+
+30/09/2020
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+13:47 - 14:15 13 
+
+//~19h fiquei com a dor de cabeça [enxaquequa -> vomito]
+
+01/10/2020
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+05:43 - 06:05 13
+06:06 - 06:28 14
+11:24 - 11:47 15
+11:47 - 12:10 16
+13:00 - 13:29 17
+13:29 - 13:51 18
+13:51 - 14:13 19
+21:21 - 21:45 20
+22:08 - 22:30 21
+22:30 - 22:53 22
+22:53 - 23:16 23
+23:16 - 23:40 24
+23:47 - 00:10 25
+00:10 - 00:34 26
+00:38 - 01:01 27
+
+02/10/2020
+
+[勉強]
+Kill la Kill:
+
+17:37 - 17:54 09
+17:54 - 18:47 10
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+22:08 - 22:31 28
+22:31 - 22:54 29
+22:54 - 23:17 30
+23:17 - 23:40 31
+23:41 - 00:03 32
+
+03/10/2020
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai:
+
+00:03 - 00:26 33
+00:26 - 00:51 34
+00:51 - 01:13 35
+01:17 - 01:41 36
+01:41 - 02:03 37
+02:03 - 02:26 38
+02:26 - 02:50 39
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+03:33 - 03:58 01
+03:58 - 04:20 02
+
+04/10/2020
+
+[NOT-ANIME]
+The Social Dilemma: //Netflix documentary
+
+02:48 - 03:40 -- {Marfint, Giulia, Henrique} //@58:16
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+04:31 - 04:53 03
+04:54 - 05:16 04
+05:16 - 05:41 05
+05:41 - 06:03 06
+06:03 - 06:26 07
+06:46 - 07:09 08
+07:09 - 07:35 09
+07:35 - 07:58 10 
+
+Zombieland Saga:
+
+08:58 - 09:22 07
+09:23 - 09:47 08
+
+07/10/2020
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+15:55 - 16:17 11
+16:18 - 16:41 12
+16:41 - 17:03 13
+
+08/10/2020
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+14:35 - 14:58 14
+14:58 - 15:20 15
+15:20 - 15:43 16
+15:43 - 16:07 17
+
+11/10/2020
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+06:41 - 07:10 18
+07:10 - 07:32 19
+07:32 - 07:57 20
+07:57 - 08:21 21
+
+13/10/2020
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+11:37 - 11:59 22
+11:59 - 12:21 23
+12:21 - 12:44 24
+12:45 - 13:07 25
+13:07 - 13:29 26
+13:29 - 13:52 27
+13:52 - 14:14 28
+14:16 - 14:37 29
+
+14/10/2020
+
+Munou na Nana:
+
+18:05 - 18:28 01
+18:28 - 18:51 02
+
+Kamisama ni Natta Hi:
+
+19:06 - 19:29 01
+
+Jujustu Kaisen:
+
+19:30 - 19:55 01
+19:56 - 20:21 02
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+20:26 - 20:50 30
+20:50 - 21:11 31
+21:11 - 21:33 32
+21:33 - 21:55 33
+22:04 - 22:27 34
+22:27 - 22:49 35
+22:49 - 23:09 36
+23:09 - 23:30 37
+23:31 - 23:53 38
+
+15/10/2020
+
+Machikado Mazoku:
+
+17:46 - 18:10 08
+
+//Comprei netflix até 15/12/20 por 16 reais
+
+[勉強]
+Kill la Kill:
+
+21:09 - 22:12 -- //@19:50
+
+16/10/2020
+
+[勉強]
+Kill la Kill:
+
+22:18 - 22:27 11
+22:27 - 22:41 --
+
+17/10/2020
+
+[勉強]
+Kill la Kill:
+
+21:31 - 22:02 12
+
+18/10/2020
+
+Jujustu Kaisen:
+
+08:32 - 08:57 03
+
+20/10/2020
+
+One Piece:
+
+16:35 - 17:00 109 {Lucas Romero}
+17:55 - 18:17 110 {Lucas Romero}
+
+[勉強]
+Kill la Kill:
+
+19:23 - 19:57 -- //@10:22
+
+Kamisama ni Natta Hi:
+
+21:36 - 21:59 02
+
+Munou na Nana:
+
+22:04 - 22:27 03
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze:
+
+22:40 - 23:05 39
+
+21/10/2020
+
+[勉強]
+Kill la Kill:
+
+06:36 - 06:49 13
+06:50 - 06:59 -- //@8:00
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+15:51 - 16:14 01
+16:15 - 16:37 02
+
+//https://animelon.com/video/5d3cf9c5a11bb231046310aa
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+23:31 - 00:04 -- //@13:23
+
+22/10/2020
+
+Noblesse:
+
+19:43 - 20:05 01
+
+Grand Blue:
+
+20:08 - 20:31 01
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+20:35 - 20:58 03
+
+23/10/2020
+
+One Piece:
+
+16:50 - 17:12 111 {Lucas Romero}
+17:14 - 17:42 112 {Lucas Romero}
+18:37 - 18:59 113 {Lucas Romero}
+
+24/10/2020
+
+Enen no Shouboutai: Ni no Shou:
+
+22:00 - 22:22 14
+22:22 - 22:50 15
+
+Jujustu Kaisen:
+
+23:46 - 00:10 04
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+00:10 - 00:34 04
+
+Majo no Tabitabi:
+
+00:35 - 00:59 01
+01:05 - 01:28 02
+01:28 - 01:51 03
+01:53 - 02:17 04
+
+25/10/2020
+
+One Piece:
+
+19:08 - 19:30 114 {Lucas Romero}
+19:30 - 19:52 115 {Lucas Romero}
+19:53 - 20:15 116 {Lucas Romero}
+
+[NOT-ANIME]
+Breaking Bad S2:
+
+20:48 - 21:35 05 {Mãe, Pai}
+21:49 - 22:36 06 {Mãe, Pai}
+
+26/10/2020
+
+Tonikaku Kawaii:
+
+00:49 - 01:16 01
+01:16 - 01:39 02
+01:42 - 02:08 03
+02:08 - 02:32 04
+
+[勉強]
+Kill la Kill:
+
+15:33 - 15:52 14
+
+28/10/2020
+
+Munou na Nana:
+
+19:04 - 19:26 04
+
+31/10/2020
+
+Majo no Tabitabi:
+
+02:40 - 03:04 05
+
+Tonikaku Kawaii:
+
+03:05 - 03:29 05
+
+01/11/2020
+
+Jujustu Kaisen:
+
+04:03 - 04:25 05
+
+Enen no Shouboutai: Ni no Shou:
+
+07:11 - 07:33 16
+07:33 - 07:56 17
+07:56 - 08:19 18
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+12:30 - 12:53 05
+
+03/11/2020
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+15:09 - 15:24 05
+
+Kill la Kill:
+
+[勉強]
+15:25 - 16:06 15
+
+05/11/2020
+
+Munou na Nana:
+
+15:01 - 15:26 05
+
+07/11/2020
+
+Enen no Shouboutai: Ni no Shou:
+
+02:03 - 02:29 19
+
+Jujustu Kaisen:
+
+02:29 - 02:52 06
+
+Tonikaku Kawaii:
+
+02:53 - 03:16 06
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+08:13 - 08:55 06
+
+08/11/2020
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+06:01 - 06:25 06
+
+Majo no Tabitabi:
+
+06:25 - 06:48 06
+
+10/11/2020
+
+One Piece:
+
+00:46 - 01:08 117 {Lucas Romero}
+01:12 - 01:34 118 {Lucas Romero}
+
+10/11/2020
+
+[NOT-ANIME]
+The Lord of the Rings: The Fellowship of the Ring:
+
+17:49 - 20:39 01 {Lucas Romero}
+
+Kamisama ni Natta Hi:
+
+23:20 - 23:44 03
+23:45 - 00:08 04
+
+14/11/2020
+
+Kamisama ni Natta Hi:
+
+20:13 - 20:39 05
+
+15/11/2020
+
+[REWATCH]
+Monogatari Series: Second Season:
+//Mayoi Jiangshi 07-10n
+14:56 - 15:26 07
+
+16/11/2020
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+15:21 - 15:43 07
+
+Jujustu Kaisen:
+
+15:46 - 16:08 07
+
+Enen no Shouboutai: Ni no Shou:
+
+19:06 - 19:34 20
+
+Majo no Tabitabi:
+
+19:37 - 20:01 07
+
+One Piece:
+
+20:41 - 21:03 119 {Lucas Romero}
+//Lucas foi tomar banho e eu fui comer fricassê
+21:57 - 22:19 120 {Lucas Romero}
+22:30 - 22:54 121 {Lucas Romero}
+23:07 - 23:26 122 {Lucas Romero}
+23:32 - 23:54 123 {Lucas Romero}
+
+17/11/2020
+
+One Piece:
+
+00:12 - 00:34 124 {Lucas Romero}
+00:43 - 01:04 125 {Lucas Romero}
+01:12 - 01:34 126 {Lucas Romero}
+01:39 - 02:01 127 {Lucas Romero}
+
+Munou na Nana:
+
+20:38 - 21:03 06
+
+Tonikaku Kawaii:
+
+21:03 - 21:27 07
+
+19/11/2020
+
+[REWATCH]
+Monogatari Series: Second Season:
+//Mayoi Jiangshi 07-10
+12:23 - 12:53 08
+12:54 - 13:22 09
+13:22 - 13:53 10
+
+20/11/2020
+
+One Piece:
+
+00:12 - 00:34 128 {Lucas Romero}
+00:34 - 00:57 129 {Lucas Romero}
+00:58 - 01:20 130 {Lucas Romero}
+
+Jujustu Kaisen:
+
+18:44 - 19:10 08
+
+Enen no Shouboutai: Ni no Shou:
+
+19:10 - 19:34 21
+
+Majo no Tabitabi:
+
+21:00 - 21:22 08
+
+Tonikaku Kawaii:
+
+21:24 - 21:49 08
+
+21/11/2020
+
+//Fomos para são carlos limpar o apartamento 4: MSMP
+[MANGA]
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+
+//Volume 9:
+20:39 - 20:52 [91, 91.1]
+//Volume 10:
+20:56 - 21:11 92
+21:11 - 21:24 93
+23:26 - 23:38 94
+
+22/11/2020
+
+[MANGA]
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+
+//li no carro voltando de são carlos
+07:28 - 07:43 95
+07:43 - 07:56 96
+07:56 - 08:29 [97, 98]
+10:06 - 10:21 99
+
+--skip([100, 101], "Já adaptado pelo anime")
+
+10:23 - 10:27 101.1
+//Volume 11:
+10:27 - 10:40 102
+12:31 - 12:46 103
+
+23/11/2020
+
+[MANGA]
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+
+10:57 - 11:20 104
+
+[MANGA]
+Berserk:
+
+12:01 - 12:23 01
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+13:10 - 13:34 08
+
+One Piece:
+
+--skip([131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143], "Filler")
+
+15:20 - 15:41 144 {Lucas Romero}
+15:41 - 16:05 145 {Lucas Romero}
+16:23 - 16:45 146 {Lucas Romero}
+16:46 - 17:08 147 {Lucas Romero}
+17:09 - 17:31 148 {Lucas Romero}
+17:33 - 17:55 149 {Lucas Romero}
+17:56 - 18:20 150 {Lucas Romero}
+18:21 - 18:41 151 {Lucas Romero}
+18:56 - 19:18 152 {Lucas Romero}
+19:21 - 19:43 153 {Lucas Romero}
+19:47 - 20:09 154 {Lucas Romero}
+20:56 - 21:18 155 {Lucas Romero}
+
+[MANGA]
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+
+21:41 - 21:52 105 {Lucas Romero}
+21:52 - 22:04 106 {Lucas Romero}
+22:04 - 22:16 107 {Lucas Romero}
+22:16 - 22:28 108 {Lucas Romero}
+22:28 - 22:39 109 {Lucas Romero}
+22:39 - 22:45 109.1 {Lucas Romero}
+
+24/11/2020
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+19:03 - 19:50 07
+
+[MANGA]
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen:
+
+21:22 - 21:37 110 {Lucas Romero}
+21:37 - 21:49 111 {Lucas Romero}
+21:55 - 22:00 111.1 {Lucas Romero}
+22:00 - 22:09 112 {Lucas Romero}
+22:09 - 22:18 113 {Lucas Romero}
+22:18 - 22:29 114 {Lucas Romero}
+22:29 - 22:40 115 {Lucas Romero}
+22:46 - 22:59 116 {Lucas Romero}
+22:59 - 23:09 117 {Lucas Romero}
+23:09 - 23:19 118 {Lucas Romero}
+23:19 - 23:29 119 {Lucas Romero}
+
+26/11/2020
+
+One Piece:
+
+00:54 - 01:17 156 {Lucas Romero}
+01:18 - 01:40 157 {Lucas Romero}
+01:42 - 02:04 158 {Lucas Romero}
+02:05 - 02:27 159 {Lucas Romero}
+02:28 - 02:50 160 {Lucas Romero}
+
+Tensei shitara Slime Datta Ken OVA:
+
+18:32 - 18:55 05
+
+Sen to Chihiro no Kamikakushi:
+
+21:22 - 23:23 01 {Lucas Romero, Giulia}
+
+29/11/2020
+[NOT-ANIME]
+Whindersson Nunes: Adulto:
+
+01:47 - 02:53 01 {Giulia, Marfint}
+
+[NOT-ANIME]
+Thiago Ventura: POKAS:
+
+02:58 - 03:28 -- {Marfint} //@29:00
+
+Jujustu Kaisen:
+
+05:42 - 06:06 09
+
+Enen no Shouboutai: Ni no Shou:
+
+06:10 - 06:36 22
+
+Majo no Tabitabi:
+
+21:38 - 22:03 09
+
+Tonikaku Kawaii:
+
+23:12 - 23:38 09
+
+02/12/2020
+
+Kamisama ni Natta Hi:
+
+03:04 - 03:28 06
+03:29 - 03:53 07
+
+Munou na Nana:
+
+13:36 - 13:59 07
+
+03/12/2020
+
+One Piece:
+
+21:42 - 22:05 161 {Lucas Romero}
+22:08 - 22:30 162 {Lucas Romero}
+
+[NOT-ANIME]
+Bastardos Inglórios:
+
+22:36 - 01:06 01 {Lucas Romero, Guerra}
+
+06/12/2020
+
+Shingeki no Kyojin: The Final Season:
+
+19:38 - 20:01 01 {Lucas Romero}
+
+12/12/2020
+
+Enen no Shouboutai: Ni no Shou:
+
+13:19 - 13:42 23
+13:42 - 14:07 24
+
+Jujustu Kaisen:
+
+14:09 - 14:31 10
+14:31 - 14:54 11
+
+13/12/2020
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+16:12 - 16:42 09
+
+Majo no Tabitabi:
+
+16:46 - 17:11 10
+17:11 - 17:39 11
+
+One Piece:
+
+17:46 - 18:10 163 {Lucas Romero}
+18:15 - 18:38 164 {Lucas Romero}
+18:39 - 19:02 165 {Lucas Romero}
+
+15/12/2020
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+16:34 - 16:57 10
+16:57 - 17:21 11
+
+Shingeki no Kyojin: The Final Season:
+
+17:32 - 18:01 02
+
+Tonikaku Kawaii:
+
+18:33 - 18:57 10
+
+20/12/2020
+
+Munou na Nana:
+
+22:42 - 23:04 08
+23:04 - 23:30 09
+23:34 - 23:54 10
+23:58 - 00:22 11
+
+21/12/2020
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+00:23 - 00:46 12
+
+Jujustu Kaisen:
+
+02:17 - 02:38 12
+
+21/12/2020
+
+Pupa:
+
+23:50 - 23:53 01 {Vinicius Eduardo}
+23:54 - 23:58 02 {Vinicius Eduardo}
+23:58 - 00:02 03 {Vinicius Eduardo}
+
+22/12/2020
+
+Pupa:
+
+00:03 - 00:06 04 {Vinicius Eduardo}
+00:07 - 00:12 05 {Vinicius Eduardo}
+00:12 - 00:16 06 {Vinicius Eduardo}
+00:17 - 00:20 07 {Vinicius Eduardo}
+00:22 - 00:26 08 {Vinicius Eduardo}
+00:26 - 00:30 09 {Vinicius Eduardo}
+00:30 - 00:34 10 {Vinicius Eduardo}
+00:35 - 00:38 11 {Vinicius Eduardo}
+00:39 - 00:43 12 {Vinicius Eduardo}
+
+22/12/2020
+
+Shingeki no Kyojin: The Final Season:
+
+02:41 - 03:03 03 {Lucas Romero}
+
+23/12/2020
+
+Munou na Nana:
+
+20:05 - 20:29 12
+
+Tonikaku Kawaii:
+
+20:31 - 20:55 11
+
+Majo no Tabitabi:
+
+22:10 - 22:36 12
+
+25/12/2020
+
+Jujustu Kaisen:
+
+23:51 - 00:12 13
+
+26/12/2020
+
+Mononoke Hime:
+
+01:15 - 03:10 -- {Lucas Romero, Giulia} //Giulia caiu (kazoku mattaku) (ultimos 20 minutos)
+
+One Piece:
+
+21:06 - 21:28 166 {Lucas Romero}
+21:29 - 21:52 167 {Lucas Romero}
+22:06 - 22:28 168 {Lucas Romero}
+22:28 - 22:51 169 {Lucas Romero}
+22:51 - 23:13 170 {Lucas Romero}
+23:22 - 23:44 171 {Lucas Romero}
+23:44 - 00:04 172 {Lucas Romero}
+00:08 - 00:26 173 {Lucas Romero}
+
+27/12/2020
+
+Shingeki no Kyojin: The Final Season:
+
+21:09 - 21:35 04
+
+Mahouka Koukou no Rettousei: Raihousha-hen:
+
+21:36 - 22:04 13
+
+01/01/2021
+
+Great Pretender:
+
+02:23 - 02:44 01 {Henrique}
+02:44 - 03:05 02 {Henrique}
+03:05 - 03:27 03 {Henrique}
+
+05/01/2021
+
+One Piece:
+
+01:40 - 02:02 174 {Lucas Romero}
+02:14 - 02:36 175 {Lucas Romero}
+02:43 - 03:05 176 {Lucas Romero}
+
+07/01/2021
+
+[NOT-ANIME]
+Cobra Kai:
+
+05:08 - 05:35 01 {Gary}
+05:35 - 06:01 02 {Gary}
+06:01 - 06:22 03 {Gary}
+06:23 - 06:48 04 {Gary}
+06:48 - 07:20 05 {Gary}
+
+09/01/2021
+
+One Piece:
+
+11:42 - 12:04 177 {Lucas Romero} 
+12:16 - 12:36 178 {Lucas Romero}
+12:37 - 12:56 179 {Lucas Romero}
+13:00 - 13:19 180 {Lucas Romero}
+13:21 - 13:41 181 {Lucas Romero}
+13:45 - 14:05 182 {Lucas Romero}
+
+Munou na Nana:
+
+22:00 - 22:24 13
+
+Hataraku Saibou!!:
+
+22:27 - 22:52 01
+
+Yakusoku no Neverland 2nd Season:
+
+22:57 - 23:18 01
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+23:20 - 23:49 01
+
+11/01/2021
+
+Shingeki no Kyojin: The Final Season:
+
+02:51 - 03:16 05
+
+Mononoke Hime:
+
+21:23 - 21:38 01 {Lucas Romero, Giulia} //Ultimos 20 minutos
+
+12/01/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+23:36 - 23:59 01
+
+13/01/2021
+
+Hataraku Saibou Black:
+
+00:02 - 00:26 01
+
+15/01/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+23:33 - 00:00 02
+
+16/01/2021
+
+Yakusoku no Neverland 2nd Season:
+
+00:03 - 00:25 02
+
+Jujustu Kaisen:
+
+23:39 - 00:01 14
+
+17/01/2021
+
+Hataraku Saibou!!:
+
+00:03 - 00:28 02
+
+Hataraku Saibou Black:
+
+00:28 - 00:50 02
+
+21/01/2021
+
+Hataraku Saibou Black:
+
+02:43 - 03:01 03
+03:03 - 03:25 04
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+03:27 - 03:57 03
+
+22/01/2021
+
+Hataraku Saibou!!:
+
+22:53 - 23:19 03
+
+Hataraku Saibou Black:
+
+23:20 - 23:42 05
+
+Jujustu Kaisen:
+
+00:08 - 00:30 15
+
+Yakusoku no Neverland 2nd Season:
+
+00:36 - 00:58 03
+
+Shingeki no Kyojin: The Final Season:
+
+01:13 - 01:36 06 {Lucas Romero}
+
+One Piece:
+
+02:08 - 02:29 183 {Lucas Romero}
+02:33 - 02:55 184 {Lucas Romero}
+02:56 - 03:18 185 {Lucas Romero}
+
+23/01/2021
+
+One Piece:
+
+23:33 - 23:55 186 {Lucas Romero}
+23:55 - 00:18 187 {Lucas Romero} 
+00:25 - 00:47 188 {Lucas Romero}
+00:47 - 01:10 189 {Lucas Romero}
+
+26/01/2021
+
+Shingeki no Kyojin: The Final Season:
+
+00:56 - 01:20 07
+
+Horimiya:
+
+01:22 - 01:45 01
+01:45 - 02:09 02
+02:15 - 02:38 03
+
+26/01/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+23:27 - 23:50 02
+23:50 - 00:12 03
+
+27/01/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+13:06 - 13:36 04
+
+//MAL UPDATED 20:25
+
+One Piece:
+
+21:15 - 21:37 190 {Lucas Romero}
+21:38 - 21:57 191 {Lucas Romero}
+22:03 - 22:20 192 {Lucas Romero}
+22:24 - 22:43 193 {Lucas Romero}
+
+//Assistido errado: 10 min agora e o resto depois
+22:46 - 22:54 -- //@10:00
+
+//Pulando os primeiros 10 minutos do 196 (assisti errado) [assistido em 4x até 10min]
+22:56 - 23:14 194 {Lucas Romero}
+
+//Retomando a partir dos 10 min
+23:23 - 23:36 195 {Lucas Romero}
+
+--skip([196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226], "Filler & 4 canons")
+
+23:44 - 00:06 227 {Lucas Romero}
+00:06 - 00:26 228 {Lucas Romero}
+
+28/01/2021
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+22:03 - 22:26 01
+22:26 - 22:49 02
+22:49 - 23:11 03
+
+Dr. Stone: Stone Wars:
+
+23:45 - 00:07 01 {Gary, Vinicius Russo}
+00:09 - 00:31 02 {Gary, Vinicius Russo}
+00:44 - 01:05 03 {Gary, Vinicius Russo}
+
+29/01/2021
+
+[REWATCH]
+Log Horizon:
+
+02:45 - 03:07 01 {Gary, Vinicius Russo}
+03:18 - 03:41 02 {Gary, Vinicius Russo}
+
+Log Horizon:
+
+03:47 - 04:15 03 {Gary, Vinicius Russo}
+04:27 - 04:50 04 {Gary, Vinicius Russo}
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+05:59 - 06:22 01
+06:22 - 06:44 02
+06:45 - 07:07 03
+
+Jujustu Kaisen:
+
+19:42 - 20:04 16
+
+30/01/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+02:59 - 03:53 01 {Lucas Romero}
+
+One Piece:
+
+03:59 - 04:21 229 {Lucas Romero}
+04:21 - 04:44 230 {Lucas Romero}
+05:14 - 05:36 231 {Lucas Romero}
+05:36 - 06:02 232 {Lucas Romero}
+
+Hataraku Saibou!!:
+
+06:07 - 06:29 04
+
+Hataraku Saibou Black:
+
+06:30 - 06:53 06
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+22:02 - 22:23 02 {Lucas Romero}
+22:34 - 22:58 03 {Lucas Romero}
+23:06 - 23:30 04 {Lucas Romero}
+
+One Piece:
+
+23:39 - 00:02 233 {Lucas Romero}
+
+31/01/2021
+
+One Piece:
+
+00:08 - 00:30 234 {Lucas Romero}
+00:54 - 01:16 235 {Lucas Romero}
+01:18 - 01:40 236 {Lucas Romero}
+
+Shingeki no Kyojin: The Final Season:
+
+22:52 - 23:15 08
+
+01/02/2021
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+21:31 - 21:53 04
+
+Horimiya:
+
+21:55 - 22:17 04
+
+02/02/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+20:22 - 20:45 04
+
+03/02/2021
+
+Jaku-Chara Tomozaki-kun:
+
+04:56 - 05:21 01
+05:22 - 05:46 02
+
+04/02/2021
+//Dormindo no quarto dos meus pais há 4 dias (ar condicionado)
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+00:16 - 00:47 05
+
+06/02/2021
+
+//A partir daqui não pretendo mais estudar mais japonês com kill la kill
+Kill la Kill:
+
+12:07 - 12:33 16
+
+07/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+01:23 - 01:46 05 {Lucas Romero}
+01:50 - 02:15 06 {Lucas Romero}
+02:19 - 02:43 07 {Lucas Romero}
+
+One Piece:
+
+03:17 - 03:39 237 {Lucas Romero}
+03:41 - 04:03 238 {Lucas Romero}
+05:16 - 05:38 239 {Lucas Romero}
+
+[NOT-ANIME]
+Love Death & Robots:
+
+10:39 - 10:49 01 {Vinicius Russo}
+
+Kill la Kill:
+
+12:11 - 12:37 17
+12:39 - 13:02 18
+13:02 - 13:27 19
+
+08/02/2021
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+05:28 - 05:51 05
+
+09/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+13:44 - 14:09 08 {Lucas Romero}
+14:13 - 14:36 09 {Lucas Romero}
+14:37 - 15:01 10 {Lucas Romero}
+15:02 - 15:27 11 {Lucas Romero}
+
+One Piece:
+
+15:48 - 16:10 240 {Lucas Romero}
+
+//Trocando de site para o goyabu (tradução merda, 15s e player merda):
+16:16 - 16:34 241 {Lucas Romero}
+16:35 - 16:52 242 {Lucas Romero}
+16:53 - 17:13 243 {Lucas Romero}
+17:14 - 17:31 244 {Lucas Romero}
+17:31 - 17:51 245 {Lucas Romero}
+17:51 - 18:11 246 {Lucas Romero}
+18:11 - 18:30 247 {Lucas Romero}
+
+10/02/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+19:29 - 20:00 06
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+20:38 - 21:03 12 {Lucas Romero}
+21:04 - 21:29 13 {Lucas Romero}
+21:41 - 22:06 14 {Lucas Romero}
+22:17 - 22:40 15 {Lucas Romero}
+
+One Piece:
+
+22:57 - 23:18 248 {Lucas Romero}
+23:18 - 23:38 249 {Lucas Romero}
+23:40 - 23:59 250 {Lucas Romero}
+00:01 - 00:19 251 {Lucas Romero}
+
+11/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+22:58 - 23:21 16 {Lucas Romero}
+23:25 - 23:48 17 {Lucas Romero}
+23:50 - 00:16 18 {Lucas Romero}
+
+12/02/2021
+
+[REWATCH]
+Gintama:
+
+00:35 - 00:59 03 {Lucas Romero, Camille}
+01:57 - 02:21 04 {Lucas Romero, Camille}
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+02:35 - 02:58 19 {Lucas Romero}
+
+One Piece:
+
+03:06 - 03:27 252 {Lucas Romero}
+03:28 - 03:48 253 {Lucas Romero}
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+23:35 - 23:57 20 {Lucas Romero}
+
+13/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu:
+
+00:01 - 00:25 21 {Lucas Romero}
+00:29 - 00:52 22 {Lucas Romero}
+00:55 - 01:21 23 {Lucas Romero}
+01:22 - 01:46 24 {Lucas Romero}
+01:47 - 02:20 25 {Lucas Romero}
+
+One Piece:
+
+02:32 - 02:50 254 {Lucas Romero}
+02:51 - 03:10 255 {Lucas Romero}
+03:21 - 03:40 256 {Lucas Romero}
+03:41 - 03:58 257 {Lucas Romero}
+
+One Piece:
+
+23:05 - 23:21 258 {Lucas Romero}
+23:23 - 23:41 259 {Lucas Romero}
+23:43 - 00:04 260 {Lucas Romero}
+
+14/02/2021
+
+One Piece:
+
+00:09 - 00:27 261 {Lucas Romero}
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna:
+
+00:37 - 01:46 01 {Lucas Romero}
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+02:05 - 02:34 01 {Lucas Romero}
+16:44 - 17:08 02 {Lucas Romero}
+17:14 - 17:40 03 {Lucas Romero}
+
+One Piece:
+
+19:42 - 20:01 262 {Lucas Romero}
+20:01 - 20:19 263 {Lucas Romero}
+20:19 - 20:39 264 {Lucas Romero}
+23:35 - 23:51 265 {Lucas Romero}
+23:53 - 00:12 266 {Lucas Romero}
+00:13 - 00:34 267 {Lucas Romero}
+
+15/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+23:24 - 23:52 04 {Lucas Romero}
+00:02 - 00:29 05 {Lucas Romero}
+00:36 - 01:02 06 {Lucas Romero}
+
+16/02/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+21:01 - 21:25 05
+21:25 - 21:48 06
+
+Jujustu Kaisen:
+
+22:17 - 22:40 17
+22:50 - 23:13 18
+
+17/02/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+12:52 - 13:22 07
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+21:17 - 21:40 06
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+22:49 - 23:12 04
+23:14 - 23:36 05
+
+19/02/2021
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+21:33 - 22:16 08
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+23:50 - 00:14 07 {Lucas Romero}
+
+Jujustu Kaisen:
+
+00:32 - 00:54 19
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+00:54 - 01:17 06
+
+20/02/2021
+
+Hataraku Saibou!!:
+
+20:49 - 21:11 05
+
+Yakusoku no Neverland 2nd Season:
+
+21:13 - 21:35 04
+21:36 - 21:58 05
+21:58 - 22:20 06
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+23:01 - 23:25 08 {Lucas Romero}
+23:27 - 23:50 09 {Lucas Romero}
+23:54 - 00:21 10 {Lucas Romero}
+
+21/02/2021
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+
+00:23 - 00:50 11 {Lucas Romero}
+00:54 - 01:21 12 {Lucas Romero}
+01:43 - 02:10 13 {Lucas Romero}
+
+One Piece:
+
+15:38 - 16:00 268 {Lucas Romero} 
+16:01 - 16:21 269 {Lucas Romero} 
+16:41 - 17:01 270 {Lucas Romero} 
+17:04 - 17:22 271 {Lucas Romero} 
+17:24 - 17:39 272 {Lucas Romero} 
+17:41 - 17:57 273 {Lucas Romero} 
+17:58 - 18:19 274 {Lucas Romero} 
+18:22 - 18:43 275 {Lucas Romero} 
+18:44 - 19:05 276 {Lucas Romero} 
+19:05 - 19:25 277 {Lucas Romero} 
+19:26 - 19:48 278 {Lucas Romero} //Episodio do lucas
+19:49 - 19:58 279 {Lucas Romero} //@07:05 (é filler o resto)
+
+--skip([280,281,282,283], "Filler")
+
+20:03 - 20:18 284 {Lucas Romero}
+
+Shingeki no Kyojin: The Final Season:
+
+22:54 - 23:19 09
+23:19 - 23:43 10
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+23:59 - 00:22 07 {Gary}
+
+23/02/2021
+
+Shingeki no Kyojin: The Final Season:
+
+02:46 - 03:11 11
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+22:24 - 22:48 07
+
+[勉強]
+Karakai Jouzu no Takagi-san:
+
+22:51 - 23:40 09
+
+24/02/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+12:48 - 13:20 08
+
+26/02/2021
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+19:02 - 19:24 07
+
+Jujustu Kaisen:
+
+20:24 - 20:47 20
+
+[REWATCH]
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+22:27 - 22:55 01 {Lucas Romero}
+22:56 - 23:24 02 {Lucas Romero}
+23:29 - 23:58 03 {Lucas Romero}
+
+28/02/2021
+
+//The Ugly Truth
+[NOT-ANIME]
+A Verdade Nua e Crua:
+
+01:10 - 02:45 01 {Mãe}
+
+//The 6th Day
+[NOT-ANIME]
+O Sexto Dia:
+
+02:45 - 04:14 01 {Mãe}
+
+01/03/2021
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+00:54 - 01:20 08
+
+Shingeki no Kyojin: The Final Season:
+
+01:20 - 01:45 12
+
+Hataraku Saibou!!:
+
+01:47 - 02:09 06
+
+02/03/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+13:11 - 13:34 08
+
+03/03/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+18:37 - 19:05 09
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+23:58 - 00:20 08
+
+04/03/2021
+
+Yakusoku no Neverland 2nd Season:
+
+00:24 - 00:46 07
+
+05/03/2021
+
+Jujustu Kaisen:
+
+17:44 - 18:10 21
+
+06/03/2021
+
+Kill la Kill:
+
+03:18 - 03:41 20
+03:41 - 04:04 21
+04:10 - 04:34 22
+04:34 - 04:57 23
+
+09/03/2021
+
+Shingeki no Kyojin: The Final Season:
+
+04:16 - 04:39 13
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+04:42 - 05:05 09
+
+Yakusoku no Neverland 2nd Season:
+
+05:06 - 05:28 08
+
+Kill la Kill:
+
+05:30 - 05:56 24
+
+10/03/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+05:21 - 05:43 09
+
+Hataraku Saibou Black:
+
+05:47 - 06:09 07
+06:10 - 06:31 08
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+20:02 - 20:32 10
+
+12/03/2021
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+01:21 - 01:45 09
+
+Horimiya:
+
+01:48 - 02:12 05
+02:12 - 02:34 06
+02:34 - 02:57 07
+02:57 - 03:20 08
+03:20 - 03:43 09
+
+[REWATCH]
+Shingeki no Kyojin:
+
+04:06 - 04:30 02 {Vitinho, Gabs, Mayara}
+04:30 - 04:52 03 {Vitinho, Gabs, Mayara}
+04:52 - 05:15 04 {Gabs, Mayara}
+05:15 - 05:37 05 {Gabs, Mayara}
+05:37 - 05:59 06 {Gabs, Mayara}
+05:59 - 06:21 07 {Gabs, Mayara}
+06:21 - 06:44 08 {Gabs, Mayara}
+06:48 - 07:10 09 {Gabs, Mayara}
+07:12 - 07:34 10 {Gabs, Mayara}
+
+13/03/2021
+
+Jujustu Kaisen:
+
+01:08 - 01:31 22
+
+Dr. Stone: Stone Wars:
+
+01:33 - 01:56 04
+01:56 - 02:20 05
+02:20 - 02:43 06
+
+Hataraku Saibou Black:
+
+12:48 - 13:11 09
+13:11 - 13:34 10
+13:34 - 13:55 11
+13:55 - 14:17 12
+
+[NOT-ANIME]
+Lucifer IV:
+
+[SCRIPT-DANGER]
+22:27 - 23:05 05 {Pai, Mãe} //A partir de @12:38
+
+//Normal, sem script danger
+23:05 - 23:54 06 {Pai, Mãe}
+
+14/03/2021
+
+[NOT-ANIME]
+Lucifer IV:
+
+00:17 - 01:04 01
+01:05 - 01:54 02
+01:54 - 02:42 03
+02:42 - 03:30 04
+
+[SCRIPT-DANGER]
+03:30 - 03:43 05 //Do 0 até o 12min
+
+16/03/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+14:03 - 14:27 10
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+14:36 - 14:58 10
+
+17/03/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+20:47 - 21:17 11
+
+[NOT-ANIME]
+[COURSE]
+CompTIA Security+ (SY0-501 @ iCollege): THREATS ATTACKS AND VULNERABILITIES:
+
+10:50 - 10:54 01 //Overview
+11:48 - 12:11 02
+12:12 - 12:41 03
+
+18/03/2021
+
+One Piece:
+
+22:00 - 22:24 285 {Lucas Romero}
+
+19/03/2021
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+09:49 - 10:11 10
+
+Dr. Stone: Stone Wars:
+
+10:15 - 10:38 07
+
+Jujustu Kaisen:
+
+17:48 - 18:09 23 {Leoi}
+
+21/03/2021
+
+Dr. Stone: Stone Wars:
+
+14:42 - 15:05 08
+15:05 - 15:28 09
+15:30 - 15:52 10
+
+22/03/2021
+
+Shingeki no Kyojin: The Final Season:
+
+12:30 - 12:52 14
+12:52 - 13:16 15
+
+Mushoku Tensei: Isekai Ittara Honki Dasu:
+
+19:30 - 19:53 11
+
+[NOT-ANIME]
+O Gambito da Rainha:
+
+19:57 - 20:57 01
+
+23/03/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+14:21 - 14:46 11
+
+[NOT-ANIME]
+Breaking Bad S2:
+
+20:11 - 21:06 07 {Pai, Mãe}
+21:11 - 21:57 08 {Pai, Mãe}
+21:59 - 22:46 09 {Pai, Mãe}
+
+24/03/2021
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
+
+19:14 - 19:44 12
+
+[NOT-ANIME]
+Breaking Bad S2:
+
+//FIXME: ver no telegram (contato telegram)
+22:50 - 23:37 11 {Pai, Mãe}
+21:42 - 22:33 10 {Pai, Mãe}
+
+25/03/2021
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+12:51 - 13:14 11
+
+[NOT-ANIME]
+Breaking Bad S2:
+
+21:44 - 22:31 12 {Pai, Mãe}
+22:49 - 23:36 13 {Pai, Mãe}
+
+26/03/2021
+
+Jujustu Kaisen:
+
+23:22 - 23:47 24
+
+28/03/2021
+
+[NOT-ANIME]
+Truque de mestre:
+
+13:02 - 14:20 -- {Pai} //Deu problema e a net caiu, também perdi o comeco
+
+[NOT-ANIME]
+Truque de mestre:
+
+15:59 - 16:03 -- {Pai} //Inicio do filme (0-3min)
+16:30 - 16:33 -- {Pai} //(2-4min) (aparelho ta horrivel)
+17:06 - 17:25 -- {Pai} //Fim do comeco (até parte que eles são levados para interrogatório
+17:32 - 17:35 01 {Pai} //Fim do fim (4-23min)
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:39 - 21:26 01 {Pai, Mãe}
+21:27 - 22:14 02 {Pai, Mãe}
+
+29/03/2021
+
+[NOT-ANIME]
+A Origem:
+
+19:06 - 21:28 01 {Pai, Mãe}
+
+30/03/2021
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:21 - 21:13 03 {Pai, Mãe}
+21:13 - 22:01 04 {Pai, Mãe}
+
+31/03/2021
+
+Tensei shitara Slime Datta Ken 2nd Season:
+
+14:20 - 14:42 12 {Vinicius Russo}
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+22:00 - 22:47 05 {Pai, Mãe}
+22:50 - 23:27 06 {Pai, Mãe}
+
+01/04/2021
+
+Kaifuku Jutsushi no Yarinaoshi:
+
+22:41 - 23:03 12
+
+05/04/2021
+
+Shingeki no Kyojin: The Final Season:
+
+02:17 - 02:40 16
+
+Hataraku Saibou Black:
+
+02:42 - 03:07 13
+
+Hataraku Saibou!!:
+
+03:14 - 03:36 07
+03:36 - 04:01 08
+
+[NOT-ANIME]
+Lucifer IV:
+
+02:17 - 03:05 07
+03:08 - 04:00 08
+04:06 - 04:56 09
+05:00 - 05:54 10
+
+07/04/2021
+
+[NOT-ANIME]
+Lucifer V:
+
+01:09 - 01:59 01
+02:00 - 02:57 02
+02:57 - 03:51 03
+
+09/04/2021
+
+Tensura Nikki: Tensei shitara Slime Datta Ken:
+
+02:03 - 02:26 01
+
+11/04/2021
+
+[NOT-ANIME]
+Lucifer V:
+
+00:00 - 00:54 04
+
+21:51 - 22:46 05
+
+12/04/2021
+
+[NOT-ANIME]
+[COURSE]
+CompTIA Security+ (SY0-501 @ iCollege): THREATS ATTACKS AND VULNERABILITIES:
+
+//N anotei o 04 (sad)
+
+11:09 - 11:38 05 //Types of Attacks Part 2
+11:38 - 12:02 06 //Types of Attacks Part 3
+12:03 - 12:35 07 //Types of Attacks Part 4
+
+13/04/2021
+
+[NOT-ANIME]
+Lucifer V:
+
+21:59 - 22:55 06
+22:55 - 23:52 07
+23:52 - 00:54 08
+
+//SSD queimou :(
+
+21/04/2021
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:16 - 21:02 07 {Pai, Mãe}
+21:02 - 21:49 08 {Pai, Mãe}
+
+22/04/2021
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:01 - 20:48 09 {Pai, Mãe}
+20:49 - 21:40 10 {Pai, Mãe}
+
+23/04/2021
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:02 - 21:04 11 {Pai, Mãe}
+21:04 - 21:37 -- {Pai, Mãe} //Player bugou
+21:44 - 21:51 12 {Pai, Mãe}
+
+24/04/2021
+
+[NOT-ANIME]
+Breaking Bad S3:
+
+20:36 - 21:23 13 {Pai, Mãe}
+
+[NOT-ANIME]
+Breaking Bad S4:
+
+21:27 - 22:13 01 {Pai, Mãe}
+
+26/04/2021
+
+[NOT-ANIME]
+The Umbrella Academy:
+
+03:10 - 04:11 01
+04:11 - 05:09 02
+05:09 - 06:04 03
+06:07 - 07:02 04
+
+27/04/2021
+
+[NOT-ANIME]
+The Umbrella Academy:
+
+00:21 - 01:23 05
+01:27 - 02:23 06
+02:23 - 03:19 07
+03:22 - 04:12 08
+04:12 - 04:56 09
+04:56 - 05:42 10
+
+[NOT-ANIME]
+The Umbrella Academy 2:
+
+05:46 - 06:33 01
+
+20:57 - 21:44 02
+21:44 - 22:31 03
+22:32 - 23:19 04
+23:21 - 00:08 05
+
+28/04/2021
+
+[NOT-ANIME]
+The Umbrella Academy 2:
+
+00:08 - 00:52 06
+00:52 - 01:37 07
+01:37 - 02:22 08
+02:22 - 03:00 09
+03:00 - 03:47 10
+
+29/04/2021
+
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita:
+
+01:18 - 01:42 01
+01:42 - 02:05 02
+02:05 - 02:26 03
+
+[NOT-ANIME]
+Fragmentado: //Split
+
+22:39 - 00:30 01
+
+30/04/2021
+
+Shadows House:
+
+15:10 - 15:32 01
+15:34 - 15:57 02
+
+[NOT-ANIME]
+Breaking Bad S4:
+
+21:52 - 21:39 02 {Mãe, Pai}
+21:42 - 22:31 03 {Mãe, Pai}
+
+01/05/2021
+
+[NOT-ANIME]
+Breaking Bad S4:
+
+16:56 - 17:40 04 {Mãe, Pai}
+17:40 - 18:26 05 {Mãe, Pai}
+
+03/05/2021
+
+Kimetsu no Yaiba Movie: Mugen Ressha-hen:
+
+19:53 - 21:51 01
+
+05/05/2021
+
+Fumetsu no Anata e:
+
+06:39 - 07:03 01
+07:03 - 07:26 02
+07:26 - 07:48 03
+07:48 - 08:10 04
+
+[NOT-ANIME]
+Breaking Bad S4:
+
+19:55 - 20:42 06 {Mãe, Pai}
+
+06/05/2021
+
+Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara:
+
+13:08 - 13:31 01
+13:32 - 13:53 02
+13:53 - 14:15 03
+14:15 - 14:37 04
+14:37 - 14:59 05
+
+07/05/2021
+
+Haikyuu!!:
+
+16:32 - 16:55 01 {Lucas Romero}
+
+08/05/2021
+
+Kumo desu ga, Nani ka?:
+
+22:42 - 23:04 01 {Vinicius Russo}
+23:07 - 23:31 02 {Vinicius Russo}
+
+23:33 - 23:54 03
+23:54 - 00:14 04
+
+09/05/2021
+
+Kumo desu ga, Nani ka?:
+
+00:14 - 00:38 05
+00:38 - 01:00 06
+01:00 - 01:24 07
+01:35 - 02:00 08
+02:00 - 02:24 09
+02:24 - 02:46 10
+02:46 - 03:11 11
+03:11 - 03:33 12
+03:33 - 03:55 13
+03:55 - 04:19 14
+04:19 - 04:42 15
+04:42 - 05:05 16
+05:05 - 05:26 17
+
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita:
+
+21:20 - 21:42 04
+21:43 - 22:04 05
+
+Shadows House:
+
+22:16 - 22:39 03
+22:50 - 23:13 04
+23:14 - 23:35 05
+
+11/05/2021
+
+Vivy: Fluorite Eye's Song:
+
+23:10 - 23:35 01
+23:35 - 23:57 02
+23:58 - 00:22 03
+
+12/05/2021
+
+Vivy: Fluorite Eye's Song:
+
+00:22 - 00:46 04
+00:54 - 01:16 05
+01:16 - 01:40 06
+01:41 - 02:03 07
+
+86: Eighty Six:
+20:10 - 20:34 01
+20:35 - 20:57 02
+
+13/05/2021
+
+Fumetsu no Anata e:
+
+19:20 - 19:46 05
+
+Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara:
+
+19:52 - 20:13 06
+
+Sentouin, Hakenshimasu!:
+
+22:09 - 22:34 01
+22:36 - 22:59 02
+22:59 - 23:21 03
+23:27 - 23:49 04
+23:49 - 00:11 05
+00:11 - 00:33 06
+
+14/05/2021
+
+Kumo desu ga, Nani ka?:
+
+12:38 - 13:01 18 {Vinicius Russo}
+
+15/05/2021
+
+Vivy: Fluorite Eye's Song:
+
+13:44 - 14:07 08
+
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita:
+
+14:12 - 14:36 06
+
+Shadows House:
+
+14:38 - 15:00 06
+
+One Piece:
+
+21:31 - 21:54 286 {Lucas Romero}
+21:55 - 22:14 287 {Lucas Romero}
+22:16 - 22:34 288 {Lucas Romero}
+
+16/05/2021
+
+86: Eighty Six:
+
+21:31 - 21:52 03
+
+18/05/2021
+
+[勉強]
+BNA:
+
+19:12 - 19:52 01
+19:55 - 20:41 02 
+
+Sentouin, Hakenshimasu!:
+
+21:37 - 22:01 07
+
+19/05/2021
+
+Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara:
+
+20:55 - 21:19 07
+
+Fumetsu no Anata e:
+
+21:21 - 21:47 06
+
+[勉強]
+BNA:
+
+21:48 - 22:37 03
+
+20/05/2021
+
+[勉強]
+BNA:
+
+08:57 - 09:34 04
+
+[UNSAFE-ORDER]
+Gintama:
+
+23:05 - 23:28 69 {Lucas Romero, Camille}
+23:30 - 23:53 70 {Lucas Romero, Camille}
+23:57 - 00:24 71 {Lucas Romero, Camille}
+
+21/05/2021
+
+[勉強]
+BNA:
+
+17:08 - 18:03 05
+
+22/05/2021
+
+Kumo desu ga, Nani ka?:
+
+15:22 - 15:46 19
+
+Shadows House:
+
+15:47 - 16:10 07
+
+[勉強]
+BNA:
+
+18:30 - 19:07 06
+
+//OVA da segunda temporada (mas n tem a interrogação?)
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA:
+
+20:07 - 20:31 01
+
+Vivy: Fluorite Eye's Song:
+
+20:32 - 20:55 09
+
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita:
+
+21:54 - 22:17 07
+
+//Vi durara com o lucas em 2019 acho, mas a partir daqui ignora o que vimos antes. Vamos ver até o fim (os 3)
+[REWATCH]
+Durarara!!:
+
+23:37 - 23:58 01 {Lucas Romero, Camille}
+
+23/05/2021
+
+[REWATCH]
+Durarara!!:
+
+00:00 - 00:24 02 {Lucas Romero, Camille}
+00:31 - 00:55 03 {Lucas Romero, Camille}
+00:57 - 01:19 04 {Lucas Romero, Camille}
+
+26/05/2021
+
+Fumetsu no Anata e:
+
+23:25 - 23:50 07
+
+Sentouin, Hakenshimasu!:
+
+23:51 - 00:16 08
+
+27/05/2021
+
+Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara:
+
+18:59 - 19:22 08
+
+[勉強]
+
+BNA:
+
+20:08 - 21:03 07
+
+Durarara!!:
+
+22:56 - 23:18 05 {Lucas Romero, Camille}
+23:21 - 23:45 06 {Lucas Romero, Camille}
+23:46 - 00:11 07 {Lucas Romero, Camille}
+00:11 - 00:36 08 {Lucas Romero, Camille}
+00:39 - 01:03 09 {Lucas Romero, Camille}
+01:03 - 01:30 10 {Lucas Romero, Camille}
+
+28/05/2021
+
+[NOT-ANIME]
+Lucifer V:
+
+21:15 - 22:09 09 {Mãe}
+22:09 - 22:45 -- {Mãe}
+23:13 - 23:37 10 {Mãe}
+
+29/05/2021
+
+Durarara!!:
+
+01:02 - 01:24 11 {Lucas Romero, Camille}
+01:24 - 01:53 12 {Lucas Romero, Camille}
+01:54 - 02:17 12.5 {Lucas Romero, Camille}
+02:20 - 02:49 13 {Lucas Romero, Camille}
+02:49 - 03:13 14 {Lucas Romero, Camille}
+
+Kumo desu ga, Nani ka?:
+
+22:12 - 22:17 -- {Vinicius Russo} //UFABC vai fechar?
+22:43 - 23:01 20 {Vinicius Russo}
+
+31/05/2021
+
+Sentouin, Hakenshimasu!:
+
+00:40 - 01:02 09
+
+Shadows House:
+
+01:02 - 01:25 08
+
+03/06/2021
+
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita:
+
+00:44 - 01:07 08
+
+Vivy: Fluorite Eye's Song:
+
+01:07 - 01:31 10
+
+09/06/2021
+
+Kumo desu ga, Nani ka?:
+
+18:12 - 18:37 21
+
+10/06/2021
+
+Fumetsu no Anata e:
+
+00:29 - 00:53 08
+00:53 - 01:18 09
+
+[勉強]
+BNA:
+
+02:58 - 03:39 08
+
+One Piece:
+
+16:49 - 17:09 289 {Lucas Romero}
+17:09 - 17:29 290 {Lucas Romero}
+--skip(291, 292)
+17:29 - 17:50 293 {Lucas Romero}
+17:51 - 18:08 294 {Lucas Romero}
+18:08 - 18:27 295 {Lucas Romero}
+18:27 - 18:43 296 {Lucas Romero}
+18:58 - 19:16 297 {Lucas Romero}
+19:17 - 19:33 298 {Lucas Romero}
+19:39 - 19:57 299 {Lucas Romero}
+19:57 - 20:17 300 {Lucas Romero}
+
+[勉強]
+BNA:
+
+21:52 - 22:30 09
+
+12/06/2021
+
+Durarara!!:
+
+01:45 - 02:09 15 {Lucas Romero, Camille}
+02:10 - 02:32 16 {Lucas Romero, Camille}
+02:32 - 02:55 17 {Lucas Romero, Camille}
+02:59 - 03:22 18 {Lucas Romero, Camille}
+03:23 - 03:44 19 {Lucas Romero, Camille}
+
+13/06/2021
+
+Durarara!!:
+
+01:51 - 02:13 20 {Lucas Romero, Camille}
+02:16 - 02:38 21 {Lucas Romero, Camille}
+02:39 - 03:01 22 {Lucas Romero, Camille}
+03:03 - 03:27 23 {Lucas Romero, Camille}
+03:27 - 03:49 24 {Lucas Romero, Camille}
+03:49 - 04:06 25 {Lucas Romero, Camille}
+//Faltou ver a primeira metade do 25
+
+Kumo desu ga, Nani ka?:
+
+23:20 - 23:44 22
+
+14/06/2021
+
+Shadows House:
+
+00:14 - 00:37 09
+00:37 - 01:01 10
