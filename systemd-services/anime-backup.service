@@ -1,0 +1,14 @@
+[Unit]
+Description=Simple Animelist Backup Service
+
+[Service]
+WorkingDirectory=/home/marucs/anime-backup
+ExecStart=/home/marucs/anime-backup/syncedBackup.sh
+RemainAfterExit=true
+ExecStop=/home/marucs/anime-backup/syncedBackup.sh
+Type=oneshot
+User=marucs
+Group=marucs
+
+[Install]
+WantedBy=default.target
