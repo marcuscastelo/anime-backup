@@ -1,100 +1,92 @@
 #!/usr/bin/python
 import os
 from os import path
+import platform
 
 import datetime
-
+from logger import Logger
+LOGGER = Logger()
 
 # Most likely not changing
 SETTINGS_FILENAME = 'settings.cfg'
 
-print('WARNING: this is a personal project, so it 99% will not work on your computer')
-
 # Determine if Windows or Linux
-IS_WINDOWS = False
-if os.name == 'nt':
-    print('INFO: running on windows.')
-    IS_WINDOWS = True
-else:
-    print('INFO: running on Linux')
+def get_os():
+    return platform.system() or 'UnknownOS'
 
-# Assert single file
-if __name__ != "__main__":
-    print('ERROR: backup.py is not a module, it must not be imported')
-    exit(1)
-
-#################
-## ACTUAL CODE ##
-#################
-
-CWD = os.getcwd()
-settings_filep = path.join(CWD, SETTINGS_FILENAME)
-
+SETTINGS_FILEPATH = path.join(os.getcwd(), SETTINGS_FILENAME)
 settings = {}
 
 def _generate_settings():
-    settings_file = open(settings_filep, 'w+')
-    if settings_file.mode != 'w+':
-        print('ERROR: failed to generate new',SETTINGS_FILENAME)
-        exit(2)
-    settings_file.writelines([
-        'OLD_FOLDER=old' + ( 'Windows' if IS_WINDOWS else 'Linux' ) + '\n',
-        'MAX_AGE=30\n', #days
-        'FILE_BASENAME=anilist\n',
-        'FILE_EXT=.anl\n'
-    ])
-    settings_file.close()
+    with open(SETTINGS_FILEPATH, 'w+') as settings_file:
+        if settings_file.mode != 'w+':
+            LOGGER.log_error('Failed to generate new',SETTINGS_FILEPATH)
+            exit(2)
+
+        settings_file.writelines([
+            f"OLD_FOLDER=old{get_os()}\n",
+            f"MAX_AGE=30\n", #days
+            f"FILE_BASENAME=anilist\n",
+            f"FILE_EXT=.anl\n"
+        ])
 
 def load_settings():
-    print('> INFO: loading settings...')
-    
-    if not path.exists(path.join(CWD, SETTINGS_FILENAME)):
-        print('WARNING: settings file not found! generating a blank one...')
+    LOGGER.log_info('Loading settings...')
+    if not path.exists(path.join(os.getcwd(), SETTINGS_FILEPATH)):
+        LOGGER.log_warning('Settings file doesn\'t exist, creating it')
         _generate_settings()
-    settings_file = open(settings_filep, 'r')
 
-    if settings_file.mode != 'r':
-        print('ERROR: failed to load',SETTINGS_FILENAME)
-        exit(3)
+    with open(SETTINGS_FILEPATH, 'r') as settings_file:
+        if settings_file.mode != 'r':
+            print('ERROR: failed to load',SETTINGS_FILEPATH)
+            exit(3)
 
-    lines = settings_file.readlines()
-    for line in lines:
-        prop, value = line.split('=')
-        settings[prop] = value
-    settings_file.close()
-    print('INFO: settings loaded sucessfully')
+        lines = settings_file.readlines()
+        for line in lines:
+            prop, value = line.split('=')
+            settings[prop] = value
 
-def gen_bkp_name():
-    return settings['FILE_BASENAME'][:-1] + (datetime.datetime.now().replace(microsecond=0).isoformat().replace(':','-').replace('T','-T-')) + settings['FILE_EXT']
+    LOGGER.log_info('Settings loaded successfully')
 
-def assert_old_folder():
-    print('INFO: asserting OLD_FOLDER...')
-    if not path.exists(path.join(CWD, settings['OLD_FOLDER'][:-1])):
-        print('WARNING: OLD_FOLDER not found, creating it!')
-        os.makedirs(settings['OLD_FOLDER'][:-1])
+def gen_backup_filename() -> str:
+    time_postfix = datetime.datetime.now().replace(microsecond=0).isoformat().replace(':','-').replace('T','-T-')
+    basename = settings['FILE_BASENAME'][:-1]
+    ext = settings['FILE_EXT'][:-1]
+    return f'{basename}-{time_postfix}{ext}'
+
+def create_old_folder_if_not_exists():
+    LOGGER.log_trace('Checking if old folder exists...')
+    if path.exists(path.join(os.getcwd(), settings['OLD_FOLDER'][:-1])):
+        LOGGER.log_trace('Old folder already exists, using it')
     else:
-        print('OK')
+        LOGGER.log_trace('Old folder doesn\'t exist, creating it')
+        os.makedirs(settings['OLD_FOLDER'][:-1])
 
+def make_bkp(original_filepath: str, backup_filepath: str):
+    os.system('cp %s %s' % (original_filepath, backup_filepath))
 
-def make_bkp():
+def main():
+    LOGGER.log_info('Loading settings...')
     load_settings()
-    print('> INFO: Starting backup')
-    bkp_name = gen_bkp_name()
-    print('INFO: generated name:',bkp_name)
 
-    assert_old_folder()
+    cwd = os.getcwd()
 
-    curr_filep = path.join(CWD, settings['FILE_BASENAME'][:-1] + settings['FILE_EXT'][:-1])
-    bkp_filep = path.join(CWD, settings['OLD_FOLDER'][:-1], bkp_name)
+    backup_filename = gen_backup_filename()
 
-    if not path.exists(curr_filep):
-        print('ERROR: file to backup doesn\'t exist:',curr_filep)
+    create_old_folder_if_not_exists()
+    original_filepath =  path.join(cwd, settings['FILE_BASENAME'][:-1] + settings['FILE_EXT'][:-1])
+    backup_filepath = path.join(cwd, settings['OLD_FOLDER'][:-1], backup_filename)
 
-    print('>> INFO: copying file %s to %s' % (curr_filep, bkp_filep))
-    command = 'cp %s %s' % (curr_filep, bkp_filep)
-    # print(command)
-    os.system('cp %s %s' % (curr_filep, bkp_filep))
-    print('Task completed')
+    LOGGER.log_info(f'Backing up file {original_filepath} to {backup_filepath}')
+    if path.exists(original_filepath):
+        make_bkp(original_filepath, backup_filepath)
+        LOGGER.log_info('Backup complete')
+    else:
+        LOGGER.log_error(f'File {original_filepath} doesn\'t exist')
+        exit(1)
 
+    LOGGER.log_info('Exiting...')
 
-make_bkp()
+if __name__ == "__main__":
+    main()
+    pass
