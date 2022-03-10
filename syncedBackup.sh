@@ -26,3 +26,5 @@ fi
 git push &> lastpush.log
 cat lastpush.log
 ! cat lastpush.log | grep -E 'rejected'
+
+read
