@@ -20,7 +20,7 @@ settings = {}
 def _generate_settings():
     with open(SETTINGS_FILEPATH, 'w+') as settings_file:
         if settings_file.mode != 'w+':
-            LOGGER.log_error('Failed to generate new',SETTINGS_FILEPATH)
+            LOGGER.log_error('Failed to generate new',SETTINGS_FILEPATH, 'BACKUP')
             exit(2)
 
         settings_file.writelines([
@@ -31,9 +31,9 @@ def _generate_settings():
         ])
 
 def load_settings():
-    LOGGER.log_info('Loading settings...')
+    LOGGER.log_info('Loading settings...', 'BACKUP')
     if not path.exists(path.join(os.getcwd(), SETTINGS_FILEPATH)):
-        LOGGER.log_warning('Settings file doesn\'t exist, creating it')
+        LOGGER.log_warning('Settings file doesn\'t exist, creating it', 'BACKUP')
         _generate_settings()
 
     with open(SETTINGS_FILEPATH, 'r') as settings_file:
@@ -46,7 +46,7 @@ def load_settings():
             prop, value = line.split('=')
             settings[prop] = value
 
-    LOGGER.log_info('Settings loaded successfully')
+    LOGGER.log_info('Settings loaded successfully', 'BACKUP')
 
 def gen_backup_filename() -> str:
     time_postfix = datetime.datetime.now().replace(microsecond=0).isoformat().replace(':','-').replace('T','-T-')
@@ -55,18 +55,18 @@ def gen_backup_filename() -> str:
     return f'{basename}-{time_postfix}{ext}'
 
 def create_old_folder_if_not_exists():
-    LOGGER.log_trace('Checking if old folder exists...')
+    LOGGER.log_trace('Checking if old folder exists...', 'BACKUP')
     if path.exists(path.join(os.getcwd(), settings['OLD_FOLDER'][:-1])):
-        LOGGER.log_trace('Old folder already exists, using it')
+        LOGGER.log_trace('Old folder already exists, using it', 'BACKUP')
     else:
-        LOGGER.log_trace('Old folder doesn\'t exist, creating it')
+        LOGGER.log_trace('Old folder doesn\'t exist, creating it', 'BACKUP')
         os.makedirs(settings['OLD_FOLDER'][:-1])
 
 def make_bkp(original_filepath: str, backup_filepath: str):
     os.system('cp %s %s' % (original_filepath, backup_filepath))
 
 def main():
-    LOGGER.log_info('Loading settings...')
+    LOGGER.log_info('Loading settings...', 'BACKUP')
     load_settings()
 
     cwd = os.getcwd()
@@ -77,15 +77,15 @@ def main():
     original_filepath =  path.join(cwd, settings['FILE_BASENAME'][:-1] + settings['FILE_EXT'][:-1])
     backup_filepath = path.join(cwd, settings['OLD_FOLDER'][:-1], backup_filename)
 
-    LOGGER.log_info(f'Backing up file {original_filepath} to {backup_filepath}')
+    LOGGER.log_info(f'Backing up file {original_filepath} to {backup_filepath}', 'BACKUP')
     if path.exists(original_filepath):
         make_bkp(original_filepath, backup_filepath)
-        LOGGER.log_info('Backup complete')
+        LOGGER.log_info('Backup complete', 'BACKUP')
     else:
-        LOGGER.log_error(f'File {original_filepath} doesn\'t exist')
+        LOGGER.log_error(f'File {original_filepath} doesn\'t exist', 'BACKUP')
         exit(1)
 
-    LOGGER.log_info('Exiting...')
+    LOGGER.log_info('Exiting...', 'BACKUP')
 
 if __name__ == "__main__":
     main()
