@@ -11,9 +11,10 @@
             "program": "${workspaceRoot}/target/debug/anime-backup.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "${workspaceFolder}",
             "environment": [],
-            "console": "externalTerminal"
+            "console": "externalTerminal",
+            "preLaunchTask": "rust: cargo build"
         }
     ]
 }
