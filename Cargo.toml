@@ -1,3 +1,9 @@
 [package]
 name = "anime-backup"
 version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+toml = "*"
+serde = { version = "*", features = ["derive"] }
+chrono = "*"
