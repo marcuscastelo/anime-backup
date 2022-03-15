@@ -1,0 +1,4 @@
+OLD_FOLDER = "oldWindows"
+MAX_AGE = 30
+ORIGINAL_FILE_BASENAME = "anilist"
+ORIGINAL_FILE_EXTENSION = ".anl"
