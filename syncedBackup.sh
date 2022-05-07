@@ -27,5 +27,5 @@ git push &> lastpush.log
 cat lastpush.log
 ! cat lastpush.log | grep -E 'rejected'
 
-echo "Press any key to finish..."
-read
+# echo "Press any key to finish..."
+# read

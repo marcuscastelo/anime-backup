@@ -4,7 +4,7 @@ from os import path
 import platform
 
 import datetime
-from logger import Logger
+from utils.logger import Logger
 LOGGER = Logger()
 
 # Most likely not changing
