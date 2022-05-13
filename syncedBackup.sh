@@ -24,8 +24,9 @@ fi
 
 #Saves the push success or failure messages to a log file, cat it and then make an error code if necessary
 git push &> lastpush.log
+errorcode=$?
 cat lastpush.log
 ! cat lastpush.log | grep -E 'rejected'
-
+exit $errorcode
 # echo "Press any key to finish..."
 # read
