@@ -10318,7 +10318,8 @@ Hataraku Saibou Black:
 [NOT-ANIME]
 Lucifer IV:
 
-[SCRIPT-DANGER]
+// Vi primeiro o 5 e 6 com pais e depois só fui assistir do começo
+[UNSAFE-ORDER]
 22:27 - 23:05 05 {Pai, Mãe} //A partir de @12:38
 
 //Normal, sem script danger
@@ -10329,13 +10330,15 @@ Lucifer IV:
 [NOT-ANIME]
 Lucifer IV:
 
+// Vi primeiro o 5 e 6 com pais e depois só fui assistir do começo
+[UNSAFE-ORDER]
 00:17 - 01:04 01
 01:05 - 01:54 02
 01:54 - 02:42 03
 02:42 - 03:30 04
 
 [SCRIPT-DANGER]
-03:30 - 03:43 05 //Do 0 até o 12min
+03:30 - 03:43 05 //Do 0 até o 12min (Já tinha visto o resto do episódio)
 
 16/03/2021
 
@@ -10427,9 +10430,16 @@ Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2:
 [NOT-ANIME]
 Breaking Bad S2:
 
-//FIXME: ver no telegram (contato telegram)
-22:50 - 23:37 11 {Pai, Mãe}
 21:42 - 22:33 10 {Pai, Mãe}
+22:50 - 23:37 11 {Pai, Mãe}
+//Telegram: //TODO: remover mensagens quando tiver certeza (ja tenho na real mas vou deixar aqui)
+//Marucs, [24/03/2021 21:42] 2142
+//Marucs, [24/03/2021 21:43] ..
+//Marucs, [24/03/2021 22:33] 2233
+//Marucs, [24/03/2021 22:34] 10
+//Marucs, [24/03/2021 22:50] 2250
+//Marucs, [24/03/2021 23:37] 2337
+//Marucs, [24/03/2021 23:37] 11
 
 25/03/2021
 
