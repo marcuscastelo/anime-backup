@@ -3578,7 +3578,7 @@ Danshi Koukousei no Nichijou Specials:
 
 11/01/2019
 
-[Rewatch]
+[REWATCH]
 Bakemonogatari: 
 
 15:47 - 16:12 01
@@ -3596,7 +3596,7 @@ Devilman Crybaby:
 
 12/01/2019 //(Passeio de escuna)
 
-[Rewatch]
+[REWATCH]
 Bakemonogatari: 
 
 07:44 - 08:07 05
@@ -3606,7 +3606,7 @@ Bakemonogatari:
 13:47 - 14:08 09
 14:10 - 14:31 10
 
-[Rewatch]
+[REWATCH]
 Bakemonogatari: 
 
 22:56 - 23:22 06
@@ -6074,7 +6074,7 @@ Manga: Sword art Online Progressive:
 00:24 - 00:35 04
 
 One Piece:
-	
+
 19:39 - 20:05 17 {Lucas Romero}
 20:22 - 20:45 19 {Lucas Romero}
 
@@ -6802,7 +6802,7 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.:
 
 02/02/2020
 
-[Rewatch]
+[REWATCH]
 No Game No Life: 
 
 01:43 - 02:05 01 {Gary, Vitinho, Vinicius Russo}
@@ -7050,7 +7050,8 @@ Isekai Quartet 2:
 12:10 - 12:21 06
 12:21 - 12:36 07
 
-Death Note: [REWATCH]
+[REWATCH]
+Death Note: 
 
 14:35 - 15:00 11 {Mãe}
 15:00 - 15:21 12 {Mãe}
@@ -7853,7 +7854,8 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders:
 
 15/07/2020
 
-Nisemonogatari: [Rewatch]
+[REWATCH]
+Nisemonogatari: 
 
 00:41 - 01:05 02
 
@@ -8152,7 +8154,8 @@ Deca-Dence:
 
 13/08/2020
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.: [REWATCH]
+[REWATCH]
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.: 
 
 21:45 - 22:09 02
 
@@ -9772,7 +9775,8 @@ Log Horizon:
 02:45 - 03:07 01 {Gary, Vinicius Russo}
 03:18 - 03:41 02 {Gary, Vinicius Russo}
 
-Log Horizon:
+//TODO: Redeclaration is not redundant, since it removes the [REWATCH] tag
+Log Horizon: 
 
 03:47 - 04:15 03 {Gary, Vinicius Russo}
 04:27 - 04:50 04 {Gary, Vinicius Russo}
