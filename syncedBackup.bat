@@ -1,1 +1,1 @@
-cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- C:\Users\Marucs\anime-backup\syncedBackup.sh"
+cmd /c ""C:\Users\Marucs\AppData\Local\Programs\Git\bin\bash.exe" --login -i -- C:\Users\Marucs\anime-backup\syncedBackup.sh"
