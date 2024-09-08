@@ -17578,9 +17578,14 @@ Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni 
 
 08/09/2024
 
-// Visto no Japão (12h de diferença)
+// Visto no Japão (12h de diferença, será usado o tempo do japão)
 [勉強]
 Yuru Camp△ Season 2:
 
-08:38 - 
+20:38 - 21:06 13
+
+[勉強]
+Yuru Camp△ Season 3:
+
+21:23
 // TODO: diagnostics should also be in cache, or else they wont be shown
